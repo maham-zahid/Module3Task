@@ -1,0 +1,177 @@
+[06-Aug-2024 06:51:13 UTC] PHP Warning:  require_once(php/include.php): Failed to open stream: No such file or directory in C:\Users\hp\Local Sites\loginplugin\app\public\wp-content\plugins\login-plugin\include\register.php on line 2
+[06-Aug-2024 06:51:13 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'php/include.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\hp\Local Sites\loginplugin\app\public\wp-content\plugins\login-plugin\include\register.php:2
+Stack trace:
+#0 C:\Users\hp\Local Sites\loginplugin\app\public\wp-content\plugins\login-plugin\login-plugin.php(35): include()
+#1 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\shortcodes.php(434): custom_register_form_shortcode(Array, '', 'custom_register...')
+#2 [internal function]: do_shortcode_tag(Array)
+#3 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\shortcodes.php(273): preg_replace_callback('/\\[(\\[?)(custom...', 'do_shortcode_ta...', '\n<p>This is an ...')
+#4 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\class-wp-hook.php(324): do_shortcode('\n<p>This is an ...')
+#5 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\plugin.php(205): WP_Hook->apply_filters('\n<p>This is an ...', Array)
+#6 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\rest-api\endpoints\class-wp-rest-posts-controller.php(1871): apply_filters('the_content', '<!-- wp:paragra...')
+#7 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\rest-api\endpoints\class-wp-rest-posts-controller.php(958): WP_REST_Posts_Controller->prepare_item_for_response(Object(WP_Post), Object(WP_REST_Request))
+#8 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\rest-api\class-wp-rest-server.php(1230): WP_REST_Posts_Controller->update_item(Object(WP_REST_Request))
+#9 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\rest-api\class-wp-rest-server.php(1063): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/wp/v2/pages/(?...', Array, NULL)
+#10 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\rest-api\class-wp-rest-server.php(439): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#11 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\rest-api.php(420): WP_REST_Server->serve_request('/wp/v2/pages/2')
+#12 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\class-wp-hook.php(324): rest_api_loaded(Object(WP))
+#13 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#14 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\plugin.php(565): WP_Hook->do_action(Array)
+#15 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\class-wp.php(418): do_action_ref_array('parse_request', Array)
+#16 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\class-wp.php(813): WP->parse_request('')
+#17 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\functions.php(1336): WP->main('')
+#18 C:\Users\hp\Local Sites\loginplugin\app\public\wp-blog-header.php(16): wp()
+#19 C:\Users\hp\Local Sites\loginplugin\app\public\index.php(17): require('C:\\Users\\hp\\Loc...')
+#20 {main}
+  thrown in C:\Users\hp\Local Sites\loginplugin\app\public\wp-content\plugins\login-plugin\include\register.php on line 2
+[06-Aug-2024 06:51:14 UTC] PHP Warning:  require_once(php/include.php): Failed to open stream: No such file or directory in C:\Users\hp\Local Sites\loginplugin\app\public\wp-content\plugins\login-plugin\include\register.php on line 2
+[06-Aug-2024 06:51:14 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'php/include.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\hp\Local Sites\loginplugin\app\public\wp-content\plugins\login-plugin\include\register.php:2
+Stack trace:
+#0 C:\Users\hp\Local Sites\loginplugin\app\public\wp-content\plugins\login-plugin\login-plugin.php(35): include()
+#1 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\shortcodes.php(434): custom_register_form_shortcode(Array, '', 'custom_register...')
+#2 [internal function]: do_shortcode_tag(Array)
+#3 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\shortcodes.php(273): preg_replace_callback('/\\[(\\[?)(custom...', 'do_shortcode_ta...', '\n<p>This is an ...')
+#4 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\class-wp-hook.php(324): do_shortcode('\n<p>This is an ...')
+#5 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\plugin.php(205): WP_Hook->apply_filters('\n<p>This is an ...', Array)
+#6 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\rest-api\endpoints\class-wp-rest-posts-controller.php(1871): apply_filters('the_content', '<!-- wp:paragra...')
+#7 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\rest-api\endpoints\class-wp-rest-posts-controller.php(958): WP_REST_Posts_Controller->prepare_item_for_response(Object(WP_Post), Object(WP_REST_Request))
+#8 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\rest-api\class-wp-rest-server.php(1230): WP_REST_Posts_Controller->update_item(Object(WP_REST_Request))
+#9 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\rest-api\class-wp-rest-server.php(1063): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/wp/v2/pages/(?...', Array, NULL)
+#10 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\rest-api\class-wp-rest-server.php(439): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#11 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\rest-api.php(420): WP_REST_Server->serve_request('/wp/v2/pages/2')
+#12 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\class-wp-hook.php(324): rest_api_loaded(Object(WP))
+#13 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#14 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\plugin.php(565): WP_Hook->do_action(Array)
+#15 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\class-wp.php(418): do_action_ref_array('parse_request', Array)
+#16 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\class-wp.php(813): WP->parse_request('')
+#17 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\functions.php(1336): WP->main('')
+#18 C:\Users\hp\Local Sites\loginplugin\app\public\wp-blog-header.php(16): wp()
+#19 C:\Users\hp\Local Sites\loginplugin\app\public\index.php(17): require('C:\\Users\\hp\\Loc...')
+#20 {main}
+  thrown in C:\Users\hp\Local Sites\loginplugin\app\public\wp-content\plugins\login-plugin\include\register.php on line 2
+[06-Aug-2024 06:51:17 UTC] PHP Warning:  require_once(php/include.php): Failed to open stream: No such file or directory in C:\Users\hp\Local Sites\loginplugin\app\public\wp-content\plugins\login-plugin\include\register.php on line 2
+[06-Aug-2024 06:51:17 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'php/include.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\hp\Local Sites\loginplugin\app\public\wp-content\plugins\login-plugin\include\register.php:2
+Stack trace:
+#0 C:\Users\hp\Local Sites\loginplugin\app\public\wp-content\plugins\login-plugin\login-plugin.php(35): include()
+#1 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\shortcodes.php(434): custom_register_form_shortcode(Array, '', 'custom_register...')
+#2 [internal function]: do_shortcode_tag(Array)
+#3 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\shortcodes.php(273): preg_replace_callback('/\\[(\\[?)(custom...', 'do_shortcode_ta...', '\n<p>This is an ...')
+#4 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\class-wp-hook.php(324): do_shortcode('\n<p>This is an ...')
+#5 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\plugin.php(205): WP_Hook->apply_filters('\n<p>This is an ...', Array)
+#6 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\rest-api\endpoints\class-wp-rest-posts-controller.php(1871): apply_filters('the_content', '<!-- wp:paragra...')
+#7 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\rest-api\endpoints\class-wp-rest-posts-controller.php(958): WP_REST_Posts_Controller->prepare_item_for_response(Object(WP_Post), Object(WP_REST_Request))
+#8 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\rest-api\class-wp-rest-server.php(1230): WP_REST_Posts_Controller->update_item(Object(WP_REST_Request))
+#9 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\rest-api\class-wp-rest-server.php(1063): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/wp/v2/pages/(?...', Array, NULL)
+#10 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\rest-api\class-wp-rest-server.php(439): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#11 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\rest-api.php(420): WP_REST_Server->serve_request('/wp/v2/pages/2')
+#12 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\class-wp-hook.php(324): rest_api_loaded(Object(WP))
+#13 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#14 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\plugin.php(565): WP_Hook->do_action(Array)
+#15 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\class-wp.php(418): do_action_ref_array('parse_request', Array)
+#16 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\class-wp.php(813): WP->parse_request('')
+#17 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\functions.php(1336): WP->main('')
+#18 C:\Users\hp\Local Sites\loginplugin\app\public\wp-blog-header.php(16): wp()
+#19 C:\Users\hp\Local Sites\loginplugin\app\public\index.php(17): require('C:\\Users\\hp\\Loc...')
+#20 {main}
+  thrown in C:\Users\hp\Local Sites\loginplugin\app\public\wp-content\plugins\login-plugin\include\register.php on line 2
+[06-Aug-2024 06:51:19 UTC] PHP Warning:  require_once(php/include.php): Failed to open stream: No such file or directory in C:\Users\hp\Local Sites\loginplugin\app\public\wp-content\plugins\login-plugin\include\register.php on line 2
+[06-Aug-2024 06:51:19 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'php/include.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\hp\Local Sites\loginplugin\app\public\wp-content\plugins\login-plugin\include\register.php:2
+Stack trace:
+#0 C:\Users\hp\Local Sites\loginplugin\app\public\wp-content\plugins\login-plugin\login-plugin.php(35): include()
+#1 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\shortcodes.php(434): custom_register_form_shortcode(Array, '', 'custom_register...')
+#2 [internal function]: do_shortcode_tag(Array)
+#3 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\shortcodes.php(273): preg_replace_callback('/\\[(\\[?)(custom...', 'do_shortcode_ta...', '\n<p>This is an ...')
+#4 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\class-wp-hook.php(324): do_shortcode('\n<p>This is an ...')
+#5 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\plugin.php(205): WP_Hook->apply_filters('\n<p>This is an ...', Array)
+#6 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\rest-api\endpoints\class-wp-rest-revisions-controller.php(632): apply_filters('the_content', '<!-- wp:paragra...')
+#7 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\rest-api\endpoints\class-wp-rest-autosaves-controller.php(451): WP_REST_Revisions_Controller->prepare_item_for_response(Object(WP_Post), Object(WP_REST_Request))
+#8 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\rest-api\endpoints\class-wp-rest-autosaves-controller.php(253): WP_REST_Autosaves_Controller->prepare_item_for_response(Object(WP_Post), Object(WP_REST_Request))
+#9 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\rest-api\class-wp-rest-server.php(1230): WP_REST_Autosaves_Controller->create_item(Object(WP_REST_Request))
+#10 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\rest-api\class-wp-rest-server.php(1063): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/wp/v2/pages/(?...', Array, NULL)
+#11 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\rest-api\class-wp-rest-server.php(439): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#12 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\rest-api.php(420): WP_REST_Server->serve_request('/wp/v2/pages/2/...')
+#13 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\class-wp-hook.php(324): rest_api_loaded(Object(WP))
+#14 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#15 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\plugin.php(565): WP_Hook->do_action(Array)
+#16 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\class-wp.php(418): do_action_ref_array('parse_request', Array)
+#17 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\class-wp.php(813): WP->parse_request('')
+#18 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\functions.php(1336): WP->main('')
+#19 C:\Users\hp\Local Sites\loginplugin\app\public\wp-blog-header.php(16): wp()
+#20 C:\Users\hp\Local Sites\loginplugin\app\public\index.php(17): require('C:\\Users\\hp\\Loc...')
+#21 {main}
+  thrown in C:\Users\hp\Local Sites\loginplugin\app\public\wp-content\plugins\login-plugin\include\register.php on line 2
+[06-Aug-2024 06:51:20 UTC] PHP Warning:  require_once(php/include.php): Failed to open stream: No such file or directory in C:\Users\hp\Local Sites\loginplugin\app\public\wp-content\plugins\login-plugin\include\register.php on line 2
+[06-Aug-2024 06:51:20 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'php/include.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\hp\Local Sites\loginplugin\app\public\wp-content\plugins\login-plugin\include\register.php:2
+Stack trace:
+#0 C:\Users\hp\Local Sites\loginplugin\app\public\wp-content\plugins\login-plugin\login-plugin.php(35): include()
+#1 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\shortcodes.php(434): custom_register_form_shortcode(Array, '', 'custom_register...')
+#2 [internal function]: do_shortcode_tag(Array)
+#3 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\shortcodes.php(273): preg_replace_callback('/\\[(\\[?)(custom...', 'do_shortcode_ta...', '\n<p>This is an ...')
+#4 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\class-wp-hook.php(324): do_shortcode('\n<p>This is an ...')
+#5 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\plugin.php(205): WP_Hook->apply_filters('\n<p>This is an ...', Array)
+#6 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\rest-api\endpoints\class-wp-rest-posts-controller.php(1871): apply_filters('the_content', '<!-- wp:paragra...')
+#7 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\rest-api\endpoints\class-wp-rest-posts-controller.php(958): WP_REST_Posts_Controller->prepare_item_for_response(Object(WP_Post), Object(WP_REST_Request))
+#8 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\rest-api\class-wp-rest-server.php(1230): WP_REST_Posts_Controller->update_item(Object(WP_REST_Request))
+#9 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\rest-api\class-wp-rest-server.php(1063): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/wp/v2/pages/(?...', Array, NULL)
+#10 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\rest-api\class-wp-rest-server.php(439): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#11 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\rest-api.php(420): WP_REST_Server->serve_request('/wp/v2/pages/2')
+#12 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\class-wp-hook.php(324): rest_api_loaded(Object(WP))
+#13 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#14 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\plugin.php(565): WP_Hook->do_action(Array)
+#15 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\class-wp.php(418): do_action_ref_array('parse_request', Array)
+#16 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\class-wp.php(813): WP->parse_request('')
+#17 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\functions.php(1336): WP->main('')
+#18 C:\Users\hp\Local Sites\loginplugin\app\public\wp-blog-header.php(16): wp()
+#19 C:\Users\hp\Local Sites\loginplugin\app\public\index.php(17): require('C:\\Users\\hp\\Loc...')
+#20 {main}
+  thrown in C:\Users\hp\Local Sites\loginplugin\app\public\wp-content\plugins\login-plugin\include\register.php on line 2
+[06-Aug-2024 06:51:36 UTC] PHP Warning:  require_once(php/include.php): Failed to open stream: No such file or directory in C:\Users\hp\Local Sites\loginplugin\app\public\wp-content\plugins\login-plugin\include\register.php on line 2
+[06-Aug-2024 06:51:36 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'php/include.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\hp\Local Sites\loginplugin\app\public\wp-content\plugins\login-plugin\include\register.php:2
+Stack trace:
+#0 C:\Users\hp\Local Sites\loginplugin\app\public\wp-content\plugins\login-plugin\login-plugin.php(35): include()
+#1 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\shortcodes.php(434): custom_register_form_shortcode(Array, '', 'custom_register...')
+#2 [internal function]: do_shortcode_tag(Array)
+#3 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\shortcodes.php(273): preg_replace_callback('/\\[(\\[?)(custom...', 'do_shortcode_ta...', '\n<p>This is an ...')
+#4 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\class-wp-hook.php(324): do_shortcode('\n<p>This is an ...')
+#5 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\plugin.php(205): WP_Hook->apply_filters('\n<p>This is an ...', Array)
+#6 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\rest-api\endpoints\class-wp-rest-posts-controller.php(1871): apply_filters('the_content', '<!-- wp:paragra...')
+#7 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\rest-api\endpoints\class-wp-rest-posts-controller.php(958): WP_REST_Posts_Controller->prepare_item_for_response(Object(WP_Post), Object(WP_REST_Request))
+#8 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\rest-api\class-wp-rest-server.php(1230): WP_REST_Posts_Controller->update_item(Object(WP_REST_Request))
+#9 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\rest-api\class-wp-rest-server.php(1063): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/wp/v2/pages/(?...', Array, NULL)
+#10 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\rest-api\class-wp-rest-server.php(439): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#11 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\rest-api.php(420): WP_REST_Server->serve_request('/wp/v2/pages/2')
+#12 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\class-wp-hook.php(324): rest_api_loaded(Object(WP))
+#13 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#14 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\plugin.php(565): WP_Hook->do_action(Array)
+#15 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\class-wp.php(418): do_action_ref_array('parse_request', Array)
+#16 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\class-wp.php(813): WP->parse_request('')
+#17 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\functions.php(1336): WP->main('')
+#18 C:\Users\hp\Local Sites\loginplugin\app\public\wp-blog-header.php(16): wp()
+#19 C:\Users\hp\Local Sites\loginplugin\app\public\index.php(17): require('C:\\Users\\hp\\Loc...')
+#20 {main}
+  thrown in C:\Users\hp\Local Sites\loginplugin\app\public\wp-content\plugins\login-plugin\include\register.php on line 2
+[06-Aug-2024 06:52:19 UTC] PHP Warning:  require_once(php/include.php): Failed to open stream: No such file or directory in C:\Users\hp\Local Sites\loginplugin\app\public\wp-content\plugins\login-plugin\include\register.php on line 2
+[06-Aug-2024 06:52:19 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'php/include.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\hp\Local Sites\loginplugin\app\public\wp-content\plugins\login-plugin\include\register.php:2
+Stack trace:
+#0 C:\Users\hp\Local Sites\loginplugin\app\public\wp-content\plugins\login-plugin\login-plugin.php(35): include()
+#1 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\shortcodes.php(434): custom_register_form_shortcode(Array, '', 'custom_register...')
+#2 [internal function]: do_shortcode_tag(Array)
+#3 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\shortcodes.php(273): preg_replace_callback('/\\[(\\[?)(custom...', 'do_shortcode_ta...', '\n<p>This is an ...')
+#4 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\class-wp-hook.php(324): do_shortcode('\n<p>This is an ...')
+#5 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\plugin.php(205): WP_Hook->apply_filters('\n<p>This is an ...', Array)
+#6 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\rest-api\endpoints\class-wp-rest-revisions-controller.php(632): apply_filters('the_content', '<!-- wp:paragra...')
+#7 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\rest-api\endpoints\class-wp-rest-autosaves-controller.php(451): WP_REST_Revisions_Controller->prepare_item_for_response(Object(WP_Post), Object(WP_REST_Request))
+#8 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\rest-api\endpoints\class-wp-rest-autosaves-controller.php(314): WP_REST_Autosaves_Controller->prepare_item_for_response(Object(WP_Post), Object(WP_REST_Request))
+#9 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\rest-api\class-wp-rest-server.php(1230): WP_REST_Autosaves_Controller->get_items(Object(WP_REST_Request))
+#10 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\rest-api\class-wp-rest-server.php(1063): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/wp/v2/pages/(?...', Array, NULL)
+#11 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\rest-api.php(547): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#12 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\rest-api.php(2925): rest_do_request(Object(WP_REST_Request))
+#13 [internal function]: rest_preload_api_request(Array, '/wp/v2/pages/2/...')
+#14 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\block-editor.php(753): array_reduce(Array, 'rest_preload_ap...', Array)
+#15 C:\Users\hp\Local Sites\loginplugin\app\public\wp-admin\edit-form-blocks.php(80): block_editor_rest_api_preload(Array, Object(WP_Block_Editor_Context))
+#16 C:\Users\hp\Local Sites\loginplugin\app\public\wp-admin\post.php(187): require('C:\\Users\\hp\\Loc...')
+#17 {main}
+  thrown in C:\Users\hp\Local Sites\loginplugin\app\public\wp-content\plugins\login-plugin\include\register.php on line 2
+[06-Aug-2024 06:58:43 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in C:\Users\hp\Local Sites\loginplugin\app\public\wp-content\plugins\login-plugin\login-plugin.php on line 23
+[06-Aug-2024 07:00:44 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in C:\Users\hp\Local Sites\loginplugin\app\public\wp-content\plugins\login-plugin\login-plugin.php on line 23
+[06-Aug-2024 07:02:45 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in C:\Users\hp\Local Sites\loginplugin\app\public\wp-content\plugins\login-plugin\login-plugin.php on line 23
+[06-Aug-2024 07:04:46 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in C:\Users\hp\Local Sites\loginplugin\app\public\wp-content\plugins\login-plugin\login-plugin.php on line 34
