@@ -48,7 +48,7 @@ class User_Authentication {
                     <span class="form__error" id="confpassword-error"></span>
                 </div>
                 <button type="submit" name="register" class="form__button">Register</button>
-                <p class="form__text">Already have an account? <a href="index.php" class="form__link">Login</a></p>
+                <p class="form__text">Already have an account? <a href="<?php echo site_url('/login'); ?>" class="form__link">Login</a></p>
             </form>
         </div>
     </div>
@@ -75,7 +75,7 @@ class User_Authentication {
                     <span class="form__error" id="password-error"></span>
                 </div>
                 <button type="submit" name="login" class="form__button">Log in</button>
-                <p class="form__text">Don't have an account? <a href="register.php" class="form__link">Register</a></p>
+                <p class="form__text">Don't have an account? <a href="<?php echo site_url('/register'); ?>" class="form__link">Register</a></p>
             </form>
         </div>
     </div>
