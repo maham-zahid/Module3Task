@@ -175,3 +175,235 @@ Stack trace:
 [06-Aug-2024 07:00:44 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in C:\Users\hp\Local Sites\loginplugin\app\public\wp-content\plugins\login-plugin\login-plugin.php on line 23
 [06-Aug-2024 07:02:45 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in C:\Users\hp\Local Sites\loginplugin\app\public\wp-content\plugins\login-plugin\login-plugin.php on line 23
 [06-Aug-2024 07:04:46 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in C:\Users\hp\Local Sites\loginplugin\app\public\wp-content\plugins\login-plugin\login-plugin.php on line 34
+[06-Aug-2024 12:27:38 UTC] PHP Warning:  require_once(C:\Users\hp\Local Sites\loginplugin\app\public\wp-content\plugins\login-plugin/includes/class-login-plugin-activator.php): Failed to open stream: No such file or directory in C:\Users\hp\Local Sites\loginplugin\app\public\wp-content\plugins\login-plugin\login-plugin.php on line 30
+[06-Aug-2024 12:27:38 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\hp\Local Sites\loginplugin\app\public\wp-content\plugins\login-plugin/includes/class-login-plugin-activator.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\hp\Local Sites\loginplugin\app\public\wp-content\plugins\login-plugin\login-plugin.php:30
+Stack trace:
+#0 C:\Users\hp\Local Sites\loginplugin\app\public\wp-settings.php(522): include_once()
+#1 C:\Users\hp\Local Sites\loginplugin\app\public\wp-config.php(103): require_once('C:\\Users\\hp\\Loc...')
+#2 C:\Users\hp\Local Sites\loginplugin\app\public\wp-load.php(50): require_once('C:\\Users\\hp\\Loc...')
+#3 C:\Users\hp\Local Sites\loginplugin\app\public\wp-blog-header.php(13): require_once('C:\\Users\\hp\\Loc...')
+#4 C:\Users\hp\Local Sites\loginplugin\app\public\index.php(17): require('C:\\Users\\hp\\Loc...')
+#5 {main}
+  thrown in C:\Users\hp\Local Sites\loginplugin\app\public\wp-content\plugins\login-plugin\login-plugin.php on line 30
+[06-Aug-2024 12:27:42 UTC] PHP Warning:  require_once(C:\Users\hp\Local Sites\loginplugin\app\public\wp-content\plugins\login-plugin/includes/class-login-plugin-activator.php): Failed to open stream: No such file or directory in C:\Users\hp\Local Sites\loginplugin\app\public\wp-content\plugins\login-plugin\login-plugin.php on line 30
+[06-Aug-2024 12:27:42 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\hp\Local Sites\loginplugin\app\public\wp-content\plugins\login-plugin/includes/class-login-plugin-activator.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\hp\Local Sites\loginplugin\app\public\wp-content\plugins\login-plugin\login-plugin.php:30
+Stack trace:
+#0 C:\Users\hp\Local Sites\loginplugin\app\public\wp-settings.php(522): include_once()
+#1 C:\Users\hp\Local Sites\loginplugin\app\public\wp-config.php(103): require_once('C:\\Users\\hp\\Loc...')
+#2 C:\Users\hp\Local Sites\loginplugin\app\public\wp-load.php(50): require_once('C:\\Users\\hp\\Loc...')
+#3 C:\Users\hp\Local Sites\loginplugin\app\public\wp-blog-header.php(13): require_once('C:\\Users\\hp\\Loc...')
+#4 C:\Users\hp\Local Sites\loginplugin\app\public\index.php(17): require('C:\\Users\\hp\\Loc...')
+#5 {main}
+  thrown in C:\Users\hp\Local Sites\loginplugin\app\public\wp-content\plugins\login-plugin\login-plugin.php on line 30
+[06-Aug-2024 12:27:42 UTC] PHP Warning:  require_once(C:\Users\hp\Local Sites\loginplugin\app\public\wp-content\plugins\login-plugin/includes/class-login-plugin-activator.php): Failed to open stream: No such file or directory in C:\Users\hp\Local Sites\loginplugin\app\public\wp-content\plugins\login-plugin\login-plugin.php on line 30
+[06-Aug-2024 12:27:42 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\hp\Local Sites\loginplugin\app\public\wp-content\plugins\login-plugin/includes/class-login-plugin-activator.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\hp\Local Sites\loginplugin\app\public\wp-content\plugins\login-plugin\login-plugin.php:30
+Stack trace:
+#0 C:\Users\hp\Local Sites\loginplugin\app\public\wp-settings.php(522): include_once()
+#1 C:\Users\hp\Local Sites\loginplugin\app\public\wp-config.php(103): require_once('C:\\Users\\hp\\Loc...')
+#2 C:\Users\hp\Local Sites\loginplugin\app\public\wp-load.php(50): require_once('C:\\Users\\hp\\Loc...')
+#3 C:\Users\hp\Local Sites\loginplugin\app\public\wp-blog-header.php(13): require_once('C:\\Users\\hp\\Loc...')
+#4 C:\Users\hp\Local Sites\loginplugin\app\public\index.php(17): require('C:\\Users\\hp\\Loc...')
+#5 {main}
+  thrown in C:\Users\hp\Local Sites\loginplugin\app\public\wp-content\plugins\login-plugin\login-plugin.php on line 30
+[06-Aug-2024 12:29:04 UTC] PHP Warning:  require_once(C:\Users\hp\Local Sites\loginplugin\app\public\wp-content\plugins\login-plugin/includes/class-login-plugin-activator.php): Failed to open stream: No such file or directory in C:\Users\hp\Local Sites\loginplugin\app\public\wp-content\plugins\login-plugin\login-plugin.php on line 30
+[06-Aug-2024 12:29:04 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\hp\Local Sites\loginplugin\app\public\wp-content\plugins\login-plugin/includes/class-login-plugin-activator.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\hp\Local Sites\loginplugin\app\public\wp-content\plugins\login-plugin\login-plugin.php:30
+Stack trace:
+#0 C:\Users\hp\Local Sites\loginplugin\app\public\wp-settings.php(522): include_once()
+#1 C:\Users\hp\Local Sites\loginplugin\app\public\wp-config.php(103): require_once('C:\\Users\\hp\\Loc...')
+#2 C:\Users\hp\Local Sites\loginplugin\app\public\wp-load.php(50): require_once('C:\\Users\\hp\\Loc...')
+#3 C:\Users\hp\Local Sites\loginplugin\app\public\wp-blog-header.php(13): require_once('C:\\Users\\hp\\Loc...')
+#4 C:\Users\hp\Local Sites\loginplugin\app\public\index.php(17): require('C:\\Users\\hp\\Loc...')
+#5 {main}
+  thrown in C:\Users\hp\Local Sites\loginplugin\app\public\wp-content\plugins\login-plugin\login-plugin.php on line 30
+[06-Aug-2024 12:29:04 UTC] PHP Warning:  require_once(C:\Users\hp\Local Sites\loginplugin\app\public\wp-content\plugins\login-plugin/includes/class-login-plugin-activator.php): Failed to open stream: No such file or directory in C:\Users\hp\Local Sites\loginplugin\app\public\wp-content\plugins\login-plugin\login-plugin.php on line 30
+[06-Aug-2024 12:29:04 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\hp\Local Sites\loginplugin\app\public\wp-content\plugins\login-plugin/includes/class-login-plugin-activator.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\hp\Local Sites\loginplugin\app\public\wp-content\plugins\login-plugin\login-plugin.php:30
+Stack trace:
+#0 C:\Users\hp\Local Sites\loginplugin\app\public\wp-settings.php(522): include_once()
+#1 C:\Users\hp\Local Sites\loginplugin\app\public\wp-config.php(103): require_once('C:\\Users\\hp\\Loc...')
+#2 C:\Users\hp\Local Sites\loginplugin\app\public\wp-load.php(50): require_once('C:\\Users\\hp\\Loc...')
+#3 C:\Users\hp\Local Sites\loginplugin\app\public\wp-blog-header.php(13): require_once('C:\\Users\\hp\\Loc...')
+#4 C:\Users\hp\Local Sites\loginplugin\app\public\index.php(17): require('C:\\Users\\hp\\Loc...')
+#5 {main}
+  thrown in C:\Users\hp\Local Sites\loginplugin\app\public\wp-content\plugins\login-plugin\login-plugin.php on line 30
+[06-Aug-2024 12:29:05 UTC] PHP Warning:  require_once(C:\Users\hp\Local Sites\loginplugin\app\public\wp-content\plugins\login-plugin/includes/class-login-plugin-activator.php): Failed to open stream: No such file or directory in C:\Users\hp\Local Sites\loginplugin\app\public\wp-content\plugins\login-plugin\login-plugin.php on line 30
+[06-Aug-2024 12:29:05 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\hp\Local Sites\loginplugin\app\public\wp-content\plugins\login-plugin/includes/class-login-plugin-activator.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\hp\Local Sites\loginplugin\app\public\wp-content\plugins\login-plugin\login-plugin.php:30
+Stack trace:
+#0 C:\Users\hp\Local Sites\loginplugin\app\public\wp-settings.php(522): include_once()
+#1 C:\Users\hp\Local Sites\loginplugin\app\public\wp-config.php(103): require_once('C:\\Users\\hp\\Loc...')
+#2 C:\Users\hp\Local Sites\loginplugin\app\public\wp-load.php(50): require_once('C:\\Users\\hp\\Loc...')
+#3 C:\Users\hp\Local Sites\loginplugin\app\public\wp-blog-header.php(13): require_once('C:\\Users\\hp\\Loc...')
+#4 C:\Users\hp\Local Sites\loginplugin\app\public\index.php(17): require('C:\\Users\\hp\\Loc...')
+#5 {main}
+  thrown in C:\Users\hp\Local Sites\loginplugin\app\public\wp-content\plugins\login-plugin\login-plugin.php on line 30
+[06-Aug-2024 12:29:05 UTC] PHP Warning:  require_once(C:\Users\hp\Local Sites\loginplugin\app\public\wp-content\plugins\login-plugin/includes/class-login-plugin-activator.php): Failed to open stream: No such file or directory in C:\Users\hp\Local Sites\loginplugin\app\public\wp-content\plugins\login-plugin\login-plugin.php on line 30
+[06-Aug-2024 12:29:05 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\hp\Local Sites\loginplugin\app\public\wp-content\plugins\login-plugin/includes/class-login-plugin-activator.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\hp\Local Sites\loginplugin\app\public\wp-content\plugins\login-plugin\login-plugin.php:30
+Stack trace:
+#0 C:\Users\hp\Local Sites\loginplugin\app\public\wp-settings.php(522): include_once()
+#1 C:\Users\hp\Local Sites\loginplugin\app\public\wp-config.php(103): require_once('C:\\Users\\hp\\Loc...')
+#2 C:\Users\hp\Local Sites\loginplugin\app\public\wp-load.php(50): require_once('C:\\Users\\hp\\Loc...')
+#3 C:\Users\hp\Local Sites\loginplugin\app\public\wp-blog-header.php(13): require_once('C:\\Users\\hp\\Loc...')
+#4 C:\Users\hp\Local Sites\loginplugin\app\public\index.php(17): require('C:\\Users\\hp\\Loc...')
+#5 {main}
+  thrown in C:\Users\hp\Local Sites\loginplugin\app\public\wp-content\plugins\login-plugin\login-plugin.php on line 30
+[06-Aug-2024 12:50:18 UTC] PHP Parse error:  Unclosed '(' on line 26 does not match '}' in C:\Users\hp\Local Sites\loginplugin\app\public\wp-content\plugins\login-plugin\public\class-login-plugin-public.php on line 29
+[06-Aug-2024 12:50:18 UTC] PHP Parse error:  Unclosed '(' on line 26 does not match '}' in C:\Users\hp\Local Sites\loginplugin\app\public\wp-content\plugins\login-plugin\public\class-login-plugin-public.php on line 29
+[06-Aug-2024 12:50:19 UTC] PHP Parse error:  Unclosed '(' on line 26 does not match '}' in C:\Users\hp\Local Sites\loginplugin\app\public\wp-content\plugins\login-plugin\public\class-login-plugin-public.php on line 29
+[06-Aug-2024 12:50:19 UTC] PHP Parse error:  Unclosed '(' on line 26 does not match '}' in C:\Users\hp\Local Sites\loginplugin\app\public\wp-content\plugins\login-plugin\public\class-login-plugin-public.php on line 29
+[06-Aug-2024 12:53:00 UTC] PHP Parse error:  Unclosed '{' on line 7 in C:\Users\hp\Local Sites\loginplugin\app\public\wp-content\plugins\login-plugin\public\class-login-plugin-public.php on line 135
+[06-Aug-2024 12:53:00 UTC] PHP Parse error:  Unclosed '{' on line 7 in C:\Users\hp\Local Sites\loginplugin\app\public\wp-content\plugins\login-plugin\public\class-login-plugin-public.php on line 135
+[07-Aug-2024 04:27:25 UTC] PHP Warning:  include(C:\Users\hp\Local Sites\loginplugin\app\public\wp-content\plugins\login-plugin/includes/class-login-plugin-activator.php): Failed to open stream: No such file or directory in C:\Users\hp\Local Sites\loginplugin\app\public\wp-content\plugins\login-plugin\login-plugin.php on line 23
+[07-Aug-2024 04:27:25 UTC] PHP Warning:  include(): Failed opening 'C:\Users\hp\Local Sites\loginplugin\app\public\wp-content\plugins\login-plugin/includes/class-login-plugin-activator.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\hp\Local Sites\loginplugin\app\public\wp-content\plugins\login-plugin\login-plugin.php on line 23
+[07-Aug-2024 04:27:26 UTC] PHP Warning:  include(C:\Users\hp\Local Sites\loginplugin\app\public\wp-content\plugins\login-plugin/includes/class-login-plugin-activator.php): Failed to open stream: No such file or directory in C:\Users\hp\Local Sites\loginplugin\app\public\wp-content\plugins\login-plugin\login-plugin.php on line 23
+[07-Aug-2024 04:27:26 UTC] PHP Warning:  include(): Failed opening 'C:\Users\hp\Local Sites\loginplugin\app\public\wp-content\plugins\login-plugin/includes/class-login-plugin-activator.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\hp\Local Sites\loginplugin\app\public\wp-content\plugins\login-plugin\login-plugin.php on line 23
+[07-Aug-2024 04:27:53 UTC] PHP Warning:  include(C:\Users\hp\Local Sites\loginplugin\app\public\wp-content\plugins\login-plugin/includes/class-login-plugin-activator.php): Failed to open stream: No such file or directory in C:\Users\hp\Local Sites\loginplugin\app\public\wp-content\plugins\login-plugin\login-plugin.php on line 23
+[07-Aug-2024 04:27:53 UTC] PHP Warning:  include(): Failed opening 'C:\Users\hp\Local Sites\loginplugin\app\public\wp-content\plugins\login-plugin/includes/class-login-plugin-activator.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\hp\Local Sites\loginplugin\app\public\wp-content\plugins\login-plugin\login-plugin.php on line 23
+[07-Aug-2024 04:27:53 UTC] PHP Warning:  include(C:\Users\hp\Local Sites\loginplugin\app\public\wp-content\plugins\login-plugin/includes/class-login-plugin-activator.php): Failed to open stream: No such file or directory in C:\Users\hp\Local Sites\loginplugin\app\public\wp-content\plugins\login-plugin\login-plugin.php on line 23
+[07-Aug-2024 04:27:53 UTC] PHP Warning:  include(): Failed opening 'C:\Users\hp\Local Sites\loginplugin\app\public\wp-content\plugins\login-plugin/includes/class-login-plugin-activator.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\hp\Local Sites\loginplugin\app\public\wp-content\plugins\login-plugin\login-plugin.php on line 23
+[07-Aug-2024 04:27:55 UTC] PHP Warning:  include(C:\Users\hp\Local Sites\loginplugin\app\public\wp-content\plugins\login-plugin/includes/class-login-plugin-activator.php): Failed to open stream: No such file or directory in C:\Users\hp\Local Sites\loginplugin\app\public\wp-content\plugins\login-plugin\login-plugin.php on line 23
+[07-Aug-2024 04:27:55 UTC] PHP Warning:  include(): Failed opening 'C:\Users\hp\Local Sites\loginplugin\app\public\wp-content\plugins\login-plugin/includes/class-login-plugin-activator.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\hp\Local Sites\loginplugin\app\public\wp-content\plugins\login-plugin\login-plugin.php on line 23
+[07-Aug-2024 04:27:55 UTC] PHP Warning:  include(C:\Users\hp\Local Sites\loginplugin\app\public\wp-content\plugins\login-plugin/includes/class-login-plugin-activator.php): Failed to open stream: No such file or directory in C:\Users\hp\Local Sites\loginplugin\app\public\wp-content\plugins\login-plugin\login-plugin.php on line 23
+[07-Aug-2024 04:27:55 UTC] PHP Warning:  include(): Failed opening 'C:\Users\hp\Local Sites\loginplugin\app\public\wp-content\plugins\login-plugin/includes/class-login-plugin-activator.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\hp\Local Sites\loginplugin\app\public\wp-content\plugins\login-plugin\login-plugin.php on line 23
+[07-Aug-2024 04:27:55 UTC] PHP Warning:  include(C:\Users\hp\Local Sites\loginplugin\app\public\wp-content\plugins\login-plugin/includes/class-login-plugin-activator.php): Failed to open stream: No such file or directory in C:\Users\hp\Local Sites\loginplugin\app\public\wp-content\plugins\login-plugin\login-plugin.php on line 23
+[07-Aug-2024 04:27:55 UTC] PHP Warning:  include(): Failed opening 'C:\Users\hp\Local Sites\loginplugin\app\public\wp-content\plugins\login-plugin/includes/class-login-plugin-activator.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\hp\Local Sites\loginplugin\app\public\wp-content\plugins\login-plugin\login-plugin.php on line 23
+[07-Aug-2024 04:27:55 UTC] PHP Warning:  include(C:\Users\hp\Local Sites\loginplugin\app\public\wp-content\plugins\login-plugin/includes/class-login-plugin-activator.php): Failed to open stream: No such file or directory in C:\Users\hp\Local Sites\loginplugin\app\public\wp-content\plugins\login-plugin\login-plugin.php on line 23
+[07-Aug-2024 04:27:55 UTC] PHP Warning:  include(): Failed opening 'C:\Users\hp\Local Sites\loginplugin\app\public\wp-content\plugins\login-plugin/includes/class-login-plugin-activator.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\hp\Local Sites\loginplugin\app\public\wp-content\plugins\login-plugin\login-plugin.php on line 23
+[07-Aug-2024 04:47:27 UTC] PHP Parse error:  syntax error, unexpected token "public", expecting end of file in C:\Users\hp\Local Sites\loginplugin\app\public\wp-content\plugins\login-plugin\public\class-login-plugin-public.php on line 94
+[07-Aug-2024 04:47:27 UTC] PHP Parse error:  syntax error, unexpected token "public", expecting end of file in C:\Users\hp\Local Sites\loginplugin\app\public\wp-content\plugins\login-plugin\public\class-login-plugin-public.php on line 94
+[07-Aug-2024 04:47:30 UTC] PHP Parse error:  syntax error, unexpected token "public", expecting end of file in C:\Users\hp\Local Sites\loginplugin\app\public\wp-content\plugins\login-plugin\public\class-login-plugin-public.php on line 94
+[07-Aug-2024 04:47:30 UTC] PHP Parse error:  syntax error, unexpected token "public", expecting end of file in C:\Users\hp\Local Sites\loginplugin\app\public\wp-content\plugins\login-plugin\public\class-login-plugin-public.php on line 94
+[07-Aug-2024 06:17:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function alert() in C:\Users\hp\Local Sites\loginplugin\app\public\wp-content\plugins\login-plugin\public\class-login-plugin-public.php:114
+Stack trace:
+#0 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\class-wp-hook.php(324): User_Authentication->register_user('')
+#1 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\Users\hp\Local Sites\loginplugin\app\public\wp-admin\admin-ajax.php(192): do_action('wp_ajax_registe...')
+#4 {main}
+  thrown in C:\Users\hp\Local Sites\loginplugin\app\public\wp-content\plugins\login-plugin\public\class-login-plugin-public.php on line 114
+[07-Aug-2024 06:17:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function alert() in C:\Users\hp\Local Sites\loginplugin\app\public\wp-content\plugins\login-plugin\public\class-login-plugin-public.php:114
+Stack trace:
+#0 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\class-wp-hook.php(324): User_Authentication->register_user('')
+#1 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\Users\hp\Local Sites\loginplugin\app\public\wp-admin\admin-ajax.php(192): do_action('wp_ajax_registe...')
+#4 {main}
+  thrown in C:\Users\hp\Local Sites\loginplugin\app\public\wp-content\plugins\login-plugin\public\class-login-plugin-public.php on line 114
+[07-Aug-2024 06:17:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function alert() in C:\Users\hp\Local Sites\loginplugin\app\public\wp-content\plugins\login-plugin\public\class-login-plugin-public.php:114
+Stack trace:
+#0 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\class-wp-hook.php(324): User_Authentication->register_user('')
+#1 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\Users\hp\Local Sites\loginplugin\app\public\wp-admin\admin-ajax.php(192): do_action('wp_ajax_registe...')
+#4 {main}
+  thrown in C:\Users\hp\Local Sites\loginplugin\app\public\wp-content\plugins\login-plugin\public\class-login-plugin-public.php on line 114
+[07-Aug-2024 06:17:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function alert() in C:\Users\hp\Local Sites\loginplugin\app\public\wp-content\plugins\login-plugin\public\class-login-plugin-public.php:114
+Stack trace:
+#0 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\class-wp-hook.php(324): User_Authentication->register_user('')
+#1 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\Users\hp\Local Sites\loginplugin\app\public\wp-admin\admin-ajax.php(192): do_action('wp_ajax_registe...')
+#4 {main}
+  thrown in C:\Users\hp\Local Sites\loginplugin\app\public\wp-content\plugins\login-plugin\public\class-login-plugin-public.php on line 114
+[07-Aug-2024 06:17:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function alert() in C:\Users\hp\Local Sites\loginplugin\app\public\wp-content\plugins\login-plugin\public\class-login-plugin-public.php:114
+Stack trace:
+#0 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\class-wp-hook.php(324): User_Authentication->register_user('')
+#1 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\Users\hp\Local Sites\loginplugin\app\public\wp-admin\admin-ajax.php(192): do_action('wp_ajax_registe...')
+#4 {main}
+  thrown in C:\Users\hp\Local Sites\loginplugin\app\public\wp-content\plugins\login-plugin\public\class-login-plugin-public.php on line 114
+[07-Aug-2024 06:17:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function alert() in C:\Users\hp\Local Sites\loginplugin\app\public\wp-content\plugins\login-plugin\public\class-login-plugin-public.php:114
+Stack trace:
+#0 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\class-wp-hook.php(324): User_Authentication->register_user('')
+#1 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\Users\hp\Local Sites\loginplugin\app\public\wp-admin\admin-ajax.php(192): do_action('wp_ajax_registe...')
+#4 {main}
+  thrown in C:\Users\hp\Local Sites\loginplugin\app\public\wp-content\plugins\login-plugin\public\class-login-plugin-public.php on line 114
+[07-Aug-2024 06:17:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function alert() in C:\Users\hp\Local Sites\loginplugin\app\public\wp-content\plugins\login-plugin\public\class-login-plugin-public.php:114
+Stack trace:
+#0 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\class-wp-hook.php(324): User_Authentication->register_user('')
+#1 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\Users\hp\Local Sites\loginplugin\app\public\wp-admin\admin-ajax.php(192): do_action('wp_ajax_registe...')
+#4 {main}
+  thrown in C:\Users\hp\Local Sites\loginplugin\app\public\wp-content\plugins\login-plugin\public\class-login-plugin-public.php on line 114
+[07-Aug-2024 06:17:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function alert() in C:\Users\hp\Local Sites\loginplugin\app\public\wp-content\plugins\login-plugin\public\class-login-plugin-public.php:114
+Stack trace:
+#0 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\class-wp-hook.php(324): User_Authentication->register_user('')
+#1 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\Users\hp\Local Sites\loginplugin\app\public\wp-admin\admin-ajax.php(192): do_action('wp_ajax_registe...')
+#4 {main}
+  thrown in C:\Users\hp\Local Sites\loginplugin\app\public\wp-content\plugins\login-plugin\public\class-login-plugin-public.php on line 114
+[07-Aug-2024 06:17:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function alert() in C:\Users\hp\Local Sites\loginplugin\app\public\wp-content\plugins\login-plugin\public\class-login-plugin-public.php:114
+Stack trace:
+#0 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\class-wp-hook.php(324): User_Authentication->register_user('')
+#1 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\Users\hp\Local Sites\loginplugin\app\public\wp-admin\admin-ajax.php(192): do_action('wp_ajax_registe...')
+#4 {main}
+  thrown in C:\Users\hp\Local Sites\loginplugin\app\public\wp-content\plugins\login-plugin\public\class-login-plugin-public.php on line 114
+[07-Aug-2024 06:31:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function alert() in C:\Users\hp\Local Sites\loginplugin\app\public\wp-content\plugins\login-plugin\public\class-login-plugin-public.php:114
+Stack trace:
+#0 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\class-wp-hook.php(324): User_Authentication->register_user('')
+#1 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\Users\hp\Local Sites\loginplugin\app\public\wp-admin\admin-ajax.php(192): do_action('wp_ajax_registe...')
+#4 {main}
+  thrown in C:\Users\hp\Local Sites\loginplugin\app\public\wp-content\plugins\login-plugin\public\class-login-plugin-public.php on line 114
+[07-Aug-2024 06:31:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function alert() in C:\Users\hp\Local Sites\loginplugin\app\public\wp-content\plugins\login-plugin\public\class-login-plugin-public.php:114
+Stack trace:
+#0 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\class-wp-hook.php(324): User_Authentication->register_user('')
+#1 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\Users\hp\Local Sites\loginplugin\app\public\wp-admin\admin-ajax.php(192): do_action('wp_ajax_registe...')
+#4 {main}
+  thrown in C:\Users\hp\Local Sites\loginplugin\app\public\wp-content\plugins\login-plugin\public\class-login-plugin-public.php on line 114
+[07-Aug-2024 06:31:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function alert() in C:\Users\hp\Local Sites\loginplugin\app\public\wp-content\plugins\login-plugin\public\class-login-plugin-public.php:114
+Stack trace:
+#0 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\class-wp-hook.php(324): User_Authentication->register_user('')
+#1 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\Users\hp\Local Sites\loginplugin\app\public\wp-admin\admin-ajax.php(192): do_action('wp_ajax_registe...')
+#4 {main}
+  thrown in C:\Users\hp\Local Sites\loginplugin\app\public\wp-content\plugins\login-plugin\public\class-login-plugin-public.php on line 114
+[07-Aug-2024 06:31:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function alert() in C:\Users\hp\Local Sites\loginplugin\app\public\wp-content\plugins\login-plugin\public\class-login-plugin-public.php:114
+Stack trace:
+#0 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\class-wp-hook.php(324): User_Authentication->register_user('')
+#1 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\Users\hp\Local Sites\loginplugin\app\public\wp-admin\admin-ajax.php(192): do_action('wp_ajax_registe...')
+#4 {main}
+  thrown in C:\Users\hp\Local Sites\loginplugin\app\public\wp-content\plugins\login-plugin\public\class-login-plugin-public.php on line 114
+[07-Aug-2024 06:31:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function alert() in C:\Users\hp\Local Sites\loginplugin\app\public\wp-content\plugins\login-plugin\public\class-login-plugin-public.php:114
+Stack trace:
+#0 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\class-wp-hook.php(324): User_Authentication->register_user('')
+#1 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\Users\hp\Local Sites\loginplugin\app\public\wp-admin\admin-ajax.php(192): do_action('wp_ajax_registe...')
+#4 {main}
+  thrown in C:\Users\hp\Local Sites\loginplugin\app\public\wp-content\plugins\login-plugin\public\class-login-plugin-public.php on line 114
+[07-Aug-2024 06:31:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function alert() in C:\Users\hp\Local Sites\loginplugin\app\public\wp-content\plugins\login-plugin\public\class-login-plugin-public.php:114
+Stack trace:
+#0 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\class-wp-hook.php(324): User_Authentication->register_user('')
+#1 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\Users\hp\Local Sites\loginplugin\app\public\wp-admin\admin-ajax.php(192): do_action('wp_ajax_registe...')
+#4 {main}
+  thrown in C:\Users\hp\Local Sites\loginplugin\app\public\wp-content\plugins\login-plugin\public\class-login-plugin-public.php on line 114
+[07-Aug-2024 06:31:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function alert() in C:\Users\hp\Local Sites\loginplugin\app\public\wp-content\plugins\login-plugin\public\class-login-plugin-public.php:114
+Stack trace:
+#0 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\class-wp-hook.php(324): User_Authentication->register_user('')
+#1 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\Users\hp\Local Sites\loginplugin\app\public\wp-admin\admin-ajax.php(192): do_action('wp_ajax_registe...')
+#4 {main}
+  thrown in C:\Users\hp\Local Sites\loginplugin\app\public\wp-content\plugins\login-plugin\public\class-login-plugin-public.php on line 114
+[07-Aug-2024 06:31:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function alert() in C:\Users\hp\Local Sites\loginplugin\app\public\wp-content\plugins\login-plugin\public\class-login-plugin-public.php:114
+Stack trace:
+#0 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\class-wp-hook.php(324): User_Authentication->register_user('')
+#1 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\Users\hp\Local Sites\loginplugin\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\Users\hp\Local Sites\loginplugin\app\public\wp-admin\admin-ajax.php(192): do_action('wp_ajax_registe...')
+#4 {main}
+  thrown in C:\Users\hp\Local Sites\loginplugin\app\public\wp-content\plugins\login-plugin\public\class-login-plugin-public.php on line 114
