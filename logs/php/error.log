@@ -1,0 +1,101 @@
+[12-Aug-2024 05:39:50 UTC] PHP Fatal error:  Uncaught Error: Class "Todo_List_Plugin" not found in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\todo-list-plugin.php:65
+Stack trace:
+#0 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-admin\includes\plugin.php(2387): include_once()
+#1 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-admin\includes\plugin.php(673): plugin_sandbox_scrape('todo-list-plugi...')
+#2 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-admin\plugins.php(60): activate_plugin('todo-list-plugi...', 'http://todolist...', false)
+#3 {main}
+  thrown in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\todo-list-plugin.php on line 65
+[12-Aug-2024 06:16:05 UTC] PHP Fatal error:  Uncaught Error: Class "User_Authentication" not found in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\todo-list-plugin.php:58
+Stack trace:
+#0 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\todo-list-plugin.php(65): Todo_List_Plugin->__construct()
+#1 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-admin\includes\plugin.php(2387): include_once('C:\\Users\\hp\\Loc...')
+#2 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-admin\includes\plugin.php(673): plugin_sandbox_scrape('todo-list-plugi...')
+#3 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-admin\plugins.php(60): activate_plugin('todo-list-plugi...', 'http://todolist...', false)
+#4 {main}
+  thrown in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\todo-list-plugin.php on line 58
+[12-Aug-2024 06:16:11 UTC] PHP Fatal error:  Uncaught Error: Class "User_Authentication" not found in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\todo-list-plugin.php:58
+Stack trace:
+#0 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\todo-list-plugin.php(65): Todo_List_Plugin->__construct()
+#1 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-admin\includes\plugin.php(2387): include_once('C:\\Users\\hp\\Loc...')
+#2 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-admin\includes\plugin.php(673): plugin_sandbox_scrape('todo-list-plugi...')
+#3 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-admin\plugins.php(60): activate_plugin('todo-list-plugi...', 'http://todolist...', false)
+#4 {main}
+  thrown in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\todo-list-plugin.php on line 58
+[12-Aug-2024 06:16:13 UTC] PHP Fatal error:  Uncaught Error: Class "User_Authentication" not found in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\todo-list-plugin.php:58
+Stack trace:
+#0 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\todo-list-plugin.php(65): Todo_List_Plugin->__construct()
+#1 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-admin\includes\plugin.php(2387): include_once('C:\\Users\\hp\\Loc...')
+#2 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-admin\includes\plugin.php(673): plugin_sandbox_scrape('todo-list-plugi...')
+#3 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-admin\plugins.php(60): activate_plugin('todo-list-plugi...', 'http://todolist...', false)
+#4 {main}
+  thrown in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\todo-list-plugin.php on line 58
+[12-Aug-2024 06:16:18 UTC] PHP Fatal error:  Uncaught Error: Class "User_Authentication" not found in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\todo-list-plugin.php:58
+Stack trace:
+#0 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\todo-list-plugin.php(65): Todo_List_Plugin->__construct()
+#1 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-admin\includes\plugin.php(2387): include_once('C:\\Users\\hp\\Loc...')
+#2 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-admin\includes\plugin.php(673): plugin_sandbox_scrape('todo-list-plugi...')
+#3 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-admin\plugins.php(60): activate_plugin('todo-list-plugi...', 'http://todolist...', false)
+#4 {main}
+  thrown in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\todo-list-plugin.php on line 58
+[12-Aug-2024 06:16:34 UTC] PHP Fatal error:  Uncaught Error: Class "User_Authentication" not found in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\todo-list-plugin.php:58
+Stack trace:
+#0 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\todo-list-plugin.php(65): Todo_List_Plugin->__construct()
+#1 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-admin\includes\plugin.php(2387): include_once('C:\\Users\\hp\\Loc...')
+#2 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-admin\includes\plugin.php(673): plugin_sandbox_scrape('todo-list-plugi...')
+#3 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-admin\plugins.php(60): activate_plugin('todo-list-plugi...', 'http://todolist...', false)
+#4 {main}
+  thrown in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\todo-list-plugin.php on line 58
+[12-Aug-2024 06:22:29 UTC] PHP Fatal error:  Uncaught Error: Class "User_Authentication" not found in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\todo-list-plugin.php:58
+Stack trace:
+#0 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\todo-list-plugin.php(65): Todo_List_Plugin->__construct()
+#1 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-admin\includes\plugin.php(2387): include_once('C:\\Users\\hp\\Loc...')
+#2 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-admin\includes\plugin.php(673): plugin_sandbox_scrape('todo-list-plugi...')
+#3 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-admin\plugins.php(60): activate_plugin('todo-list-plugi...', 'http://todolist...', false)
+#4 {main}
+  thrown in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\todo-list-plugin.php on line 58
+[12-Aug-2024 06:22:31 UTC] PHP Fatal error:  Uncaught Error: Class "User_Authentication" not found in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\todo-list-plugin.php:58
+Stack trace:
+#0 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\todo-list-plugin.php(65): Todo_List_Plugin->__construct()
+#1 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-admin\includes\plugin.php(2387): include_once('C:\\Users\\hp\\Loc...')
+#2 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-admin\includes\plugin.php(673): plugin_sandbox_scrape('todo-list-plugi...')
+#3 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-admin\plugins.php(60): activate_plugin('todo-list-plugi...', 'http://todolist...', false)
+#4 {main}
+  thrown in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\todo-list-plugin.php on line 58
+[12-Aug-2024 06:22:45 UTC] PHP Fatal error:  Uncaught Error: Class "User_Authentication" not found in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\todo-list-plugin.php:58
+Stack trace:
+#0 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\todo-list-plugin.php(65): Todo_List_Plugin->__construct()
+#1 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-admin\includes\plugin.php(2387): include_once('C:\\Users\\hp\\Loc...')
+#2 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-admin\includes\plugin.php(673): plugin_sandbox_scrape('todo-list-plugi...')
+#3 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-admin\plugins.php(60): activate_plugin('todo-list-plugi...', 'http://todolist...', false)
+#4 {main}
+  thrown in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\todo-list-plugin.php on line 58
+[12-Aug-2024 06:28:49 UTC] PHP Fatal error:  Uncaught ArgumentCountError: defined() expects exactly 1 argument, 2 given in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-config.php:90
+Stack trace:
+#0 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-config.php(90): defined('WP_DEBUG', true)
+#1 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-load.php(50): require_once('C:\\Users\\hp\\Loc...')
+#2 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\hp\\Loc...')
+#3 {main}
+  thrown in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-config.php on line 90
+[12-Aug-2024 06:30:48 UTC] PHP Fatal error:  Uncaught ArgumentCountError: defined() expects exactly 1 argument, 2 given in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-config.php:90
+Stack trace:
+#0 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-config.php(90): defined('WP_DEBUG', true)
+#1 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-load.php(50): require_once('C:\\Users\\hp\\Loc...')
+#2 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\hp\\Loc...')
+#3 {main}
+  thrown in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-config.php on line 90
+[12-Aug-2024 06:30:50 UTC] PHP Fatal error:  Uncaught ArgumentCountError: defined() expects exactly 1 argument, 2 given in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-config.php:90
+Stack trace:
+#0 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-config.php(90): defined('WP_DEBUG', true)
+#1 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-load.php(50): require_once('C:\\Users\\hp\\Loc...')
+#2 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-admin\admin.php(34): require_once('C:\\Users\\hp\\Loc...')
+#3 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-admin\plugins.php(10): require_once('C:\\Users\\hp\\Loc...')
+#4 {main}
+  thrown in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-config.php on line 90
+[12-Aug-2024 06:30:51 UTC] PHP Fatal error:  Uncaught ArgumentCountError: defined() expects exactly 1 argument, 2 given in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-config.php:90
+Stack trace:
+#0 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-config.php(90): defined('WP_DEBUG', true)
+#1 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-load.php(50): require_once('C:\\Users\\hp\\Loc...')
+#2 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-blog-header.php(13): require_once('C:\\Users\\hp\\Loc...')
+#3 C:\Users\hp\Local Sites\todolistplugin\app\public\index.php(17): require('C:\\Users\\hp\\Loc...')
+#4 {main}
+  thrown in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-config.php on line 90

@@ -1,0 +1,550 @@
+[12-Aug-2024 06:33:27 UTC] PHP Fatal error:  Uncaught Error: Class "User_Authentication" not found in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\todo-list-plugin.php:58
+Stack trace:
+#0 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\todo-list-plugin.php(65): Todo_List_Plugin->__construct()
+#1 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-admin\includes\plugin.php(2387): include_once('C:\\Users\\hp\\Loc...')
+#2 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-admin\includes\plugin.php(673): plugin_sandbox_scrape('todo-list-plugi...')
+#3 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-admin\plugins.php(60): activate_plugin('todo-list-plugi...', 'http://todolist...', false)
+#4 {main}
+  thrown in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\todo-list-plugin.php on line 58
+[12-Aug-2024 06:36:30 UTC] Automatic updates starting...
+[12-Aug-2024 06:36:31 UTC] Automatic updates complete.
+[12-Aug-2024 06:36:48 UTC] PHP Warning:  include(C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin/public/class-user-authentication.php): Failed to open stream: No such file or directory in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\todo-list-plugin.php on line 27
+[12-Aug-2024 06:36:48 UTC] PHP Warning:  include(): Failed opening 'C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin/public/class-user-authentication.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\todo-list-plugin.php on line 27
+[12-Aug-2024 06:36:48 UTC] PHP Fatal error:  Uncaught Error: Class "User_Authentication" not found in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\todo-list-plugin.php:58
+Stack trace:
+#0 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\todo-list-plugin.php(65): Todo_List_Plugin->__construct()
+#1 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-admin\includes\plugin.php(2387): include_once('C:\\Users\\hp\\Loc...')
+#2 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-admin\includes\plugin.php(673): plugin_sandbox_scrape('todo-list-plugi...')
+#3 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-admin\plugins.php(60): activate_plugin('todo-list-plugi...', 'http://todolist...', false)
+#4 {main}
+  thrown in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\todo-list-plugin.php on line 58
+[12-Aug-2024 06:36:51 UTC] PHP Warning:  include(C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin/public/class-user-authentication.php): Failed to open stream: No such file or directory in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\todo-list-plugin.php on line 27
+[12-Aug-2024 06:36:51 UTC] PHP Warning:  include(): Failed opening 'C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin/public/class-user-authentication.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\todo-list-plugin.php on line 27
+[12-Aug-2024 06:36:51 UTC] PHP Fatal error:  Uncaught Error: Class "User_Authentication" not found in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\todo-list-plugin.php:58
+Stack trace:
+#0 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\todo-list-plugin.php(65): Todo_List_Plugin->__construct()
+#1 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-admin\includes\plugin.php(2387): include_once('C:\\Users\\hp\\Loc...')
+#2 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-admin\includes\plugin.php(673): plugin_sandbox_scrape('todo-list-plugi...')
+#3 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-admin\plugins.php(60): activate_plugin('todo-list-plugi...', 'http://todolist...', false)
+#4 {main}
+  thrown in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\todo-list-plugin.php on line 58
+[12-Aug-2024 06:41:09 UTC] PHP Warning:  include(C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin/public/class-user-authentication.php): Failed to open stream: No such file or directory in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\todo-list-plugin.php on line 26
+[12-Aug-2024 06:41:09 UTC] PHP Warning:  include(): Failed opening 'C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin/public/class-user-authentication.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\todo-list-plugin.php on line 26
+[12-Aug-2024 06:41:09 UTC] PHP Fatal error:  Uncaught Error: Class "User_Authentication" not found in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\todo-list-plugin.php:60
+Stack trace:
+#0 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\todo-list-plugin.php(66): Todo_List_Plugin->__construct()
+#1 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-admin\includes\plugin.php(2387): include_once('C:\\Users\\hp\\Loc...')
+#2 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-admin\includes\plugin.php(673): plugin_sandbox_scrape('todo-list-plugi...')
+#3 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-admin\plugins.php(60): activate_plugin('todo-list-plugi...', 'http://todolist...', false)
+#4 {main}
+  thrown in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\todo-list-plugin.php on line 60
+[12-Aug-2024 06:44:26 UTC] PHP Fatal error:  Uncaught Error: Class "User_Authentication" not found in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\todo-list-plugin.php:60
+Stack trace:
+#0 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\todo-list-plugin.php(66): Todo_List_Plugin->__construct()
+#1 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-admin\includes\plugin.php(2387): include_once('C:\\Users\\hp\\Loc...')
+#2 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-admin\includes\plugin.php(673): plugin_sandbox_scrape('todo-list-plugi...')
+#3 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-admin\plugins.php(60): activate_plugin('todo-list-plugi...', 'http://todolist...', false)
+#4 {main}
+  thrown in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\todo-list-plugin.php on line 60
+[12-Aug-2024 06:51:37 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, class "Todo_List_Plugin_Activator" not found in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\class-wp-hook.php:324
+Stack trace:
+#0 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#1 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-admin\includes\plugin.php(703): do_action('activate_todo-l...', false)
+#3 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-admin\plugins.php(60): activate_plugin('todo-list-plugi...', 'http://todolist...', false)
+#4 {main}
+  thrown in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\class-wp-hook.php on line 324
+[12-Aug-2024 06:53:17 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, class "Todo_List_Plugin_Activator" not found in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\class-wp-hook.php:324
+Stack trace:
+#0 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#1 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-admin\includes\plugin.php(703): do_action('activate_todo-l...', false)
+#3 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-admin\plugins.php(60): activate_plugin('todo-list-plugi...', 'http://todolist...', false)
+#4 {main}
+  thrown in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\class-wp-hook.php on line 324
+[12-Aug-2024 06:56:27 UTC] PHP Warning:  include(C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin/include/class-todolist-plugin-activator.php): Failed to open stream: No such file or directory in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\todo-list-plugin.php on line 24
+[12-Aug-2024 06:56:27 UTC] PHP Warning:  include(): Failed opening 'C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin/include/class-todolist-plugin-activator.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\todo-list-plugin.php on line 24
+[12-Aug-2024 06:56:27 UTC] PHP Warning:  include(C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin/include/class-todolist-plugin-deactivator.php): Failed to open stream: No such file or directory in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\todo-list-plugin.php on line 25
+[12-Aug-2024 06:56:27 UTC] PHP Warning:  include(): Failed opening 'C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin/include/class-todolist-plugin-deactivator.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\todo-list-plugin.php on line 25
+[12-Aug-2024 06:56:27 UTC] PHP Warning:  include(C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin/public/class-todolist-plugin-public.php): Failed to open stream: No such file or directory in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\todo-list-plugin.php on line 26
+[12-Aug-2024 06:56:27 UTC] PHP Warning:  include(): Failed opening 'C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin/public/class-todolist-plugin-public.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\todo-list-plugin.php on line 26
+[12-Aug-2024 06:56:27 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, class "Todo_List_Plugin_Activator" not found in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\class-wp-hook.php:324
+Stack trace:
+#0 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#1 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-admin\includes\plugin.php(703): do_action('activate_todo-l...', false)
+#3 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-admin\plugins.php(60): activate_plugin('todo-list-plugi...', 'http://todolist...', false)
+#4 {main}
+  thrown in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\class-wp-hook.php on line 324
+[12-Aug-2024 07:11:52 UTC] PHP Warning:  include(C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin/include/class-todolist-plugin-activator.php): Failed to open stream: No such file or directory in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\todo-list-plugin.php on line 23
+[12-Aug-2024 07:11:52 UTC] PHP Warning:  include(): Failed opening 'C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin/include/class-todolist-plugin-activator.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\todo-list-plugin.php on line 23
+[12-Aug-2024 07:11:52 UTC] PHP Warning:  include(C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin/include/class-todolist-plugin-deactivator.php): Failed to open stream: No such file or directory in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\todo-list-plugin.php on line 24
+[12-Aug-2024 07:11:52 UTC] PHP Warning:  include(): Failed opening 'C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin/include/class-todolist-plugin-deactivator.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\todo-list-plugin.php on line 24
+[12-Aug-2024 07:11:52 UTC] PHP Warning:  include(C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin/public/class-todolist-plugin-public.php): Failed to open stream: No such file or directory in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\todo-list-plugin.php on line 27
+[12-Aug-2024 07:11:52 UTC] PHP Warning:  include(): Failed opening 'C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin/public/class-todolist-plugin-public.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\todo-list-plugin.php on line 27
+[12-Aug-2024 07:11:52 UTC] PHP Fatal error:  Uncaught Error: Class "User_Authentication" not found in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\todo-list-plugin.php:58
+Stack trace:
+#0 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\todo-list-plugin.php(63): Todolist_Plugin->__construct()
+#1 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-admin\includes\plugin.php(2387): include_once('C:\\Users\\hp\\Loc...')
+#2 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-admin\includes\plugin.php(673): plugin_sandbox_scrape('todo-list-plugi...')
+#3 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-admin\plugins.php(60): activate_plugin('todo-list-plugi...', 'http://todolist...', false)
+#4 {main}
+  thrown in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\todo-list-plugin.php on line 58
+[12-Aug-2024 07:30:36 UTC] WordPress database error Cannot add or update a child row: a foreign key constraint fails (`local`.`wp_todo_list`, CONSTRAINT `wp_todo_list_user_id_foreign` FOREIGN KEY (`user_id`) REFERENCES `wp_custom_users` (`id`) ON DELETE CASCADE) for query INSERT INTO `wp_todo_list` (`task_title`, `status`, `user_id`) VALUES ('Module 1 Task', 'pending', 1) made by do_action('wp_ajax_add_todo_task'), WP_Hook->do_action, WP_Hook->apply_filters, User_Authentication->handle_add_todo_task
+[12-Aug-2024 09:25:27 UTC] PHP Warning:  Undefined array key "task_title" in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php on line 220
+[12-Aug-2024 09:25:32 UTC] PHP Warning:  Undefined array key "status" in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php on line 253
+[12-Aug-2024 09:56:05 UTC] WordPress database error Table 'local.wp_todolist' doesn't exist for query SELECT * FROM wp_todolist WHERE user_id = 1 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('wp-includes/template-canvas.php'), get_the_block_template_html, do_blocks, render_block, WP_Block->render, WP_Block->render, render_block_core_post_content, apply_filters('the_content'), WP_Hook->apply_filters, do_shortcode, preg_replace_callback, do_shortcode_tag, User_Authentication->render_todo_list
+[12-Aug-2024 10:00:13 UTC] WordPress database error Table 'local.wp_todolist' doesn't exist for query SELECT * FROM wp_todolist WHERE user_id = 1 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('wp-includes/template-canvas.php'), get_the_block_template_html, do_blocks, render_block, WP_Block->render, WP_Block->render, render_block_core_post_content, apply_filters('the_content'), WP_Hook->apply_filters, do_shortcode, preg_replace_callback, do_shortcode_tag, User_Authentication->render_todo_list
+[12-Aug-2024 10:01:09 UTC] WordPress database error Table 'local.wp_todolist' doesn't exist for query SELECT * FROM wp_todolist WHERE user_id = 1 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('wp-includes/template-canvas.php'), get_the_block_template_html, do_blocks, render_block, WP_Block->render, WP_Block->render, render_block_core_post_content, apply_filters('the_content'), WP_Hook->apply_filters, do_shortcode, preg_replace_callback, do_shortcode_tag, User_Authentication->render_todo_list
+[12-Aug-2024 10:23:49 UTC] WordPress database error Table 'local.wp_todolist' doesn't exist for query SELECT * FROM wp_todolist WHERE user_id = 1 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('wp-includes/template-canvas.php'), get_the_block_template_html, do_blocks, render_block, WP_Block->render, WP_Block->render, render_block_core_post_content, apply_filters('the_content'), WP_Hook->apply_filters, do_shortcode, preg_replace_callback, do_shortcode_tag, User_Authentication->render_todo_list
+[12-Aug-2024 10:25:39 UTC] WordPress database error Table 'local.wp_todolist' doesn't exist for query SELECT * FROM wp_todolist WHERE user_id = 1 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('wp-includes/template-canvas.php'), get_the_block_template_html, do_blocks, render_block, WP_Block->render, WP_Block->render, render_block_core_post_content, apply_filters('the_content'), WP_Hook->apply_filters, do_shortcode, preg_replace_callback, do_shortcode_tag, User_Authentication->render_todo_list
+[12-Aug-2024 10:25:42 UTC] WordPress database error Table 'local.wp_todolist' doesn't exist for query SELECT * FROM wp_todolist WHERE user_id = 1 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('wp-includes/template-canvas.php'), get_the_block_template_html, do_blocks, render_block, WP_Block->render, WP_Block->render, render_block_core_post_content, apply_filters('the_content'), WP_Hook->apply_filters, do_shortcode, preg_replace_callback, do_shortcode_tag, User_Authentication->render_todo_list
+[12-Aug-2024 10:25:43 UTC] WordPress database error Table 'local.wp_todolist' doesn't exist for query SELECT * FROM wp_todolist WHERE user_id = 1 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('wp-includes/template-canvas.php'), get_the_block_template_html, do_blocks, render_block, WP_Block->render, WP_Block->render, render_block_core_post_content, apply_filters('the_content'), WP_Hook->apply_filters, do_shortcode, preg_replace_callback, do_shortcode_tag, User_Authentication->render_todo_list
+[12-Aug-2024 10:28:46 UTC] WordPress database error Table 'local.wp_todolist' doesn't exist for query SELECT * FROM wp_todolist WHERE user_id = 1 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('wp-includes/template-canvas.php'), get_the_block_template_html, do_blocks, render_block, WP_Block->render, WP_Block->render, render_block_core_post_content, apply_filters('the_content'), WP_Hook->apply_filters, do_shortcode, preg_replace_callback, do_shortcode_tag, User_Authentication->render_todo_list
+[12-Aug-2024 10:31:11 UTC] WordPress database error Table 'local.wp_todolist' doesn't exist for query SELECT * FROM wp_todolist WHERE user_id = 1 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('wp-includes/template-canvas.php'), get_the_block_template_html, do_blocks, render_block, WP_Block->render, WP_Block->render, render_block_core_post_content, apply_filters('the_content'), WP_Hook->apply_filters, do_shortcode, preg_replace_callback, do_shortcode_tag, User_Authentication->render_todo_list
+[12-Aug-2024 10:35:15 UTC] WordPress database error Table 'local.wp_todolist' doesn't exist for query SELECT * FROM wp_todolist WHERE user_id = 1 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('wp-includes/template-canvas.php'), get_the_block_template_html, do_blocks, render_block, WP_Block->render, WP_Block->render, render_block_core_post_content, apply_filters('the_content'), WP_Hook->apply_filters, do_shortcode, preg_replace_callback, do_shortcode_tag, User_Authentication->render_todo_list
+[12-Aug-2024 16:01:34 UTC] PHP Notice:  Function do_shortcode_tag was called <strong>incorrectly</strong>. Attempting to parse a shortcode without a valid callback: todo_list Please see <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 4.3.0.) in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\functions.php on line 6085
+[12-Aug-2024 16:02:03 UTC] PHP Notice:  Function do_shortcode_tag was called <strong>incorrectly</strong>. Attempting to parse a shortcode without a valid callback: todo_list Please see <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 4.3.0.) in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\functions.php on line 6085
+[12-Aug-2024 16:03:56 UTC] PHP Notice:  Function do_shortcode_tag was called <strong>incorrectly</strong>. Attempting to parse a shortcode without a valid callback: todo_list Please see <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 4.3.0.) in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\functions.php on line 6085
+[12-Aug-2024 16:05:54 UTC] PHP Notice:  Function do_shortcode_tag was called <strong>incorrectly</strong>. Attempting to parse a shortcode without a valid callback: todo_list Please see <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 4.3.0.) in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\functions.php on line 6085
+[12-Aug-2024 16:05:57 UTC] PHP Notice:  Function do_shortcode_tag was called <strong>incorrectly</strong>. Attempting to parse a shortcode without a valid callback: todo_list Please see <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 4.3.0.) in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\functions.php on line 6085
+[12-Aug-2024 16:06:21 UTC] PHP Notice:  Function do_shortcode_tag was called <strong>incorrectly</strong>. Attempting to parse a shortcode without a valid callback: todo_list Please see <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 4.3.0.) in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\functions.php on line 6085
+[12-Aug-2024 16:12:49 UTC] PHP Notice:  Function do_shortcode_tag was called <strong>incorrectly</strong>. Attempting to parse a shortcode without a valid callback: todo_list Please see <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 4.3.0.) in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\functions.php on line 6085
+[12-Aug-2024 16:15:27 UTC] PHP Notice:  Function do_shortcode_tag was called <strong>incorrectly</strong>. Attempting to parse a shortcode without a valid callback: todo_list Please see <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 4.3.0.) in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\functions.php on line 6085
+[12-Aug-2024 16:15:29 UTC] PHP Notice:  Function do_shortcode_tag was called <strong>incorrectly</strong>. Attempting to parse a shortcode without a valid callback: todo_list Please see <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 4.3.0.) in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\functions.php on line 6085
+[12-Aug-2024 16:16:11 UTC] PHP Notice:  Function do_shortcode_tag was called <strong>incorrectly</strong>. Attempting to parse a shortcode without a valid callback: todo_list Please see <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 4.3.0.) in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\functions.php on line 6085
+[13-Aug-2024 04:00:33 UTC] PHP Notice:  Function do_shortcode_tag was called <strong>incorrectly</strong>. Attempting to parse a shortcode without a valid callback: todo_list Please see <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 4.3.0.) in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\functions.php on line 6085
+[13-Aug-2024 04:00:35 UTC] Automatic updates starting...
+[13-Aug-2024 04:00:38 UTC] Automatic updates complete.
+[13-Aug-2024 06:51:23 UTC] PHP Warning:  Undefined property: stdClass::$task in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php on line 193
+[13-Aug-2024 06:51:23 UTC] PHP Warning:  Undefined property: stdClass::$task in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php on line 193
+[13-Aug-2024 06:51:23 UTC] PHP Warning:  Undefined property: stdClass::$task in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php on line 193
+[13-Aug-2024 06:51:23 UTC] PHP Warning:  Undefined property: stdClass::$task in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php on line 193
+[13-Aug-2024 06:51:23 UTC] PHP Warning:  Undefined property: stdClass::$task in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php on line 193
+[13-Aug-2024 06:51:24 UTC] Automatic updates starting...
+[13-Aug-2024 06:51:27 UTC] Automatic updates complete.
+[13-Aug-2024 09:32:40 UTC] PHP Parse error:  syntax error, unexpected identifier "add_shortcode", expecting "function" or "const" in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php on line 194
+[13-Aug-2024 09:32:40 UTC] PHP Parse error:  syntax error, unexpected identifier "add_shortcode", expecting "function" or "const" in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php on line 194
+[13-Aug-2024 09:32:42 UTC] PHP Parse error:  syntax error, unexpected identifier "add_shortcode", expecting "function" or "const" in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php on line 194
+[13-Aug-2024 09:32:42 UTC] PHP Parse error:  syntax error, unexpected identifier "add_shortcode", expecting "function" or "const" in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php on line 194
+[13-Aug-2024 09:35:01 UTC] PHP Parse error:  syntax error, unexpected identifier "add_shortcode", expecting "function" or "const" in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php on line 194
+[13-Aug-2024 09:35:01 UTC] PHP Parse error:  syntax error, unexpected identifier "add_shortcode", expecting "function" or "const" in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php on line 194
+[13-Aug-2024 09:35:34 UTC] PHP Parse error:  syntax error, unexpected identifier "add_shortcode", expecting "function" or "const" in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php on line 194
+[13-Aug-2024 09:35:35 UTC] PHP Parse error:  syntax error, unexpected identifier "add_shortcode", expecting "function" or "const" in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php on line 194
+[13-Aug-2024 09:35:35 UTC] PHP Parse error:  syntax error, unexpected identifier "add_shortcode", expecting "function" or "const" in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php on line 194
+[13-Aug-2024 09:35:36 UTC] PHP Parse error:  syntax error, unexpected identifier "add_shortcode", expecting "function" or "const" in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php on line 194
+[13-Aug-2024 09:37:58 UTC] PHP Notice:  Function do_shortcode_tag was called <strong>incorrectly</strong>. Attempting to parse a shortcode without a valid callback: todo_list Please see <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 4.3.0.) in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\functions.php on line 6085
+[13-Aug-2024 09:37:58 UTC] PHP Notice:  Function do_shortcode_tag was called <strong>incorrectly</strong>. Attempting to parse a shortcode without a valid callback: todo_list Please see <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 4.3.0.) in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\functions.php on line 6085
+[13-Aug-2024 09:38:00 UTC] PHP Notice:  Function do_shortcode_tag was called <strong>incorrectly</strong>. Attempting to parse a shortcode without a valid callback: todo_list Please see <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 4.3.0.) in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\functions.php on line 6085
+[13-Aug-2024 09:48:15 UTC] PHP Notice:  Function do_shortcode_tag was called <strong>incorrectly</strong>. Attempting to parse a shortcode without a valid callback: todo_list Please see <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 4.3.0.) in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\functions.php on line 6085
+[13-Aug-2024 09:53:50 UTC] PHP Notice:  Function do_shortcode_tag was called <strong>incorrectly</strong>. Attempting to parse a shortcode without a valid callback: todo_list Please see <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 4.3.0.) in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\functions.php on line 6085
+[13-Aug-2024 09:57:09 UTC] PHP Notice:  Function do_shortcode_tag was called <strong>incorrectly</strong>. Attempting to parse a shortcode without a valid callback: todo_list Please see <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 4.3.0.) in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\functions.php on line 6085
+[13-Aug-2024 13:10:10 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, class User_Authentication does not have a method "handle_update_todo_task_status" in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\class-wp-hook.php:324
+Stack trace:
+#0 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#1 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-admin\admin-ajax.php(192): do_action('wp_ajax_update_...')
+#3 {main}
+  thrown in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\class-wp-hook.php on line 324
+[13-Aug-2024 13:10:18 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, class User_Authentication does not have a method "handle_update_todo_task_status" in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\class-wp-hook.php:324
+Stack trace:
+#0 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#1 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-admin\admin-ajax.php(192): do_action('wp_ajax_update_...')
+#3 {main}
+  thrown in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\class-wp-hook.php on line 324
+[13-Aug-2024 13:10:32 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, class User_Authentication does not have a method "handle_update_todo_task_status" in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\class-wp-hook.php:324
+Stack trace:
+#0 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#1 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-admin\admin-ajax.php(192): do_action('wp_ajax_update_...')
+#3 {main}
+  thrown in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\class-wp-hook.php on line 324
+[15-Aug-2024 04:06:52 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No connection could be made because the target machine actively refused it in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\class-wpdb.php on line 1982
+[15-Aug-2024 04:06:52 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No connection could be made because the target machine actively refused it in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\class-wpdb.php on line 1982
+[15-Aug-2024 04:06:52 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No connection could be made because the target machine actively refused it in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\class-wpdb.php on line 1982
+[15-Aug-2024 04:07:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No connection could be made because the target machine actively refused it in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\class-wpdb.php on line 1982
+[15-Aug-2024 04:07:20 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No connection could be made because the target machine actively refused it in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\class-wpdb.php on line 1982
+[15-Aug-2024 04:09:55 UTC] Automatic updates starting...
+[15-Aug-2024 04:09:58 UTC] Automatic updates complete.
+[15-Aug-2024 04:57:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function fetch_user_tasks() in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php:183
+Stack trace:
+#0 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\shortcodes.php(434): User_Authentication->render_todo_list(Array, '', 'todo_list')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\shortcodes.php(273): preg_replace_callback('/\\[(\\[?)(todo_l...', 'do_shortcode_ta...', '[todo_list]\n')
+#3 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\class-wp-hook.php(324): do_shortcode('[todo_list]\n')
+#4 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\plugin.php(205): WP_Hook->apply_filters('[todo_list]\n', Array)
+#5 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\blocks\post-content.php(50): apply_filters('the_content', '<!-- wp:shortco...')
+#6 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\class-wp-block.php(519): render_block_core_post_content(Array, '<!-- wp:shortco...', Object(WP_Block))
+#7 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\class-wp-block.php(499): WP_Block->render()
+#8 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\blocks.php(2061): WP_Block->render()
+#9 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\blocks.php(2113): render_block(Array)
+#10 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\block-template.php(260): do_blocks('<!-- wp:templat...')
+#11 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\template-canvas.php(12): get_the_block_template_html()
+#12 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\hp\\Loc...')
+#13 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-blog-header.php(19): require_once('C:\\Users\\hp\\Loc...')
+#14 C:\Users\hp\Local Sites\todolistplugin\app\public\index.php(17): require('C:\\Users\\hp\\Loc...')
+#15 {main}
+  thrown in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php on line 183
+[15-Aug-2024 04:59:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function fetch_todo_tasks() in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php:183
+Stack trace:
+#0 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\shortcodes.php(434): User_Authentication->render_todo_list(Array, '', 'todo_list')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\shortcodes.php(273): preg_replace_callback('/\\[(\\[?)(todo_l...', 'do_shortcode_ta...', '[todo_list]\n')
+#3 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\class-wp-hook.php(324): do_shortcode('[todo_list]\n')
+#4 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\plugin.php(205): WP_Hook->apply_filters('[todo_list]\n', Array)
+#5 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\blocks\post-content.php(50): apply_filters('the_content', '<!-- wp:shortco...')
+#6 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\class-wp-block.php(519): render_block_core_post_content(Array, '<!-- wp:shortco...', Object(WP_Block))
+#7 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\class-wp-block.php(499): WP_Block->render()
+#8 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\blocks.php(2061): WP_Block->render()
+#9 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\blocks.php(2113): render_block(Array)
+#10 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\block-template.php(260): do_blocks('<!-- wp:templat...')
+#11 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\template-canvas.php(12): get_the_block_template_html()
+#12 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\hp\\Loc...')
+#13 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-blog-header.php(19): require_once('C:\\Users\\hp\\Loc...')
+#14 C:\Users\hp\Local Sites\todolistplugin\app\public\index.php(17): require('C:\\Users\\hp\\Loc...')
+#15 {main}
+  thrown in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php on line 183
+[15-Aug-2024 04:59:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function fetch_todo_tasks() in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php:183
+Stack trace:
+#0 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\shortcodes.php(434): User_Authentication->render_todo_list(Array, '', 'todo_list')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\shortcodes.php(273): preg_replace_callback('/\\[(\\[?)(todo_l...', 'do_shortcode_ta...', '[todo_list]\n')
+#3 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\class-wp-hook.php(324): do_shortcode('[todo_list]\n')
+#4 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\plugin.php(205): WP_Hook->apply_filters('[todo_list]\n', Array)
+#5 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\blocks\post-content.php(50): apply_filters('the_content', '<!-- wp:shortco...')
+#6 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\class-wp-block.php(519): render_block_core_post_content(Array, '<!-- wp:shortco...', Object(WP_Block))
+#7 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\class-wp-block.php(499): WP_Block->render()
+#8 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\blocks.php(2061): WP_Block->render()
+#9 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\blocks.php(2113): render_block(Array)
+#10 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\block-template.php(260): do_blocks('<!-- wp:templat...')
+#11 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\template-canvas.php(12): get_the_block_template_html()
+#12 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\hp\\Loc...')
+#13 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-blog-header.php(19): require_once('C:\\Users\\hp\\Loc...')
+#14 C:\Users\hp\Local Sites\todolistplugin\app\public\index.php(17): require('C:\\Users\\hp\\Loc...')
+#15 {main}
+  thrown in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php on line 183
+[15-Aug-2024 04:59:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function fetch_todo_tasks() in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php:183
+Stack trace:
+#0 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\shortcodes.php(434): User_Authentication->render_todo_list(Array, '', 'todo_list')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\shortcodes.php(273): preg_replace_callback('/\\[(\\[?)(todo_l...', 'do_shortcode_ta...', '[todo_list]\n')
+#3 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\class-wp-hook.php(324): do_shortcode('[todo_list]\n')
+#4 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\plugin.php(205): WP_Hook->apply_filters('[todo_list]\n', Array)
+#5 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\blocks\post-content.php(50): apply_filters('the_content', '<!-- wp:shortco...')
+#6 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\class-wp-block.php(519): render_block_core_post_content(Array, '<!-- wp:shortco...', Object(WP_Block))
+#7 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\class-wp-block.php(499): WP_Block->render()
+#8 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\blocks.php(2061): WP_Block->render()
+#9 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\blocks.php(2113): render_block(Array)
+#10 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\block-template.php(260): do_blocks('<!-- wp:templat...')
+#11 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\template-canvas.php(12): get_the_block_template_html()
+#12 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\hp\\Loc...')
+#13 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-blog-header.php(19): require_once('C:\\Users\\hp\\Loc...')
+#14 C:\Users\hp\Local Sites\todolistplugin\app\public\index.php(17): require('C:\\Users\\hp\\Loc...')
+#15 {main}
+  thrown in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php on line 183
+[15-Aug-2024 05:04:18 UTC] PHP Warning:  Undefined variable $task_name in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php on line 234
+[15-Aug-2024 05:16:43 UTC] SQL Query: INSERT INTO wp_todo_list (task_title, status, user_id) VALUES ('Module 2 Task', 'pending', 1)
+[15-Aug-2024 05:20:56 UTC] WordPress database error Cannot drop table 'wp_custom_users' referenced by a foreign key constraint 'wp_todo_list_user_id_foreign' on table 'wp_todo_list'. for query DROP TABLE IF EXISTS wp_custom_users; made by deactivate_plugins, do_action('deactivate_todo-list-plugin/todo-list-plugin.php'), WP_Hook->do_action, WP_Hook->apply_filters, Todo_List_Plugin_Deactivator::deactivate, Todo_List_Plugin_Deactivator::drop_custom_tables
+[15-Aug-2024 05:26:25 UTC] User ID: 1
+[15-Aug-2024 05:28:26 UTC] WordPress database error Cannot drop table 'wp_custom_users' referenced by a foreign key constraint 'wp_todo_list_user_id_foreign' on table 'wp_todo_list'. for query DROP TABLE IF EXISTS wp_custom_users; made by deactivate_plugins, do_action('deactivate_todo-list-plugin/todo-list-plugin.php'), WP_Hook->do_action, WP_Hook->apply_filters, Todo_List_Plugin_Deactivator::deactivate, Todo_List_Plugin_Deactivator::drop_custom_tables
+[15-Aug-2024 05:31:51 UTC] WordPress database error Cannot drop table 'wp_custom_users' referenced by a foreign key constraint 'wp_todo_list_user_id_foreign' on table 'wp_todo_list'. for query DROP TABLE IF EXISTS wp_custom_users; made by deactivate_plugins, do_action('deactivate_todo-list-plugin/todo-list-plugin.php'), WP_Hook->do_action, WP_Hook->apply_filters, Todo_List_Plugin_Deactivator::deactivate, Todo_List_Plugin_Deactivator::drop_custom_tables
+[15-Aug-2024 05:31:54 UTC] Failed to drop custom_users table: 
+[15-Aug-2024 05:35:46 UTC] User ID: 1
+[15-Aug-2024 05:35:46 UTC] WordPress database error Cannot add or update a child row: a foreign key constraint fails (`local`.`wp_todo_list`, CONSTRAINT `wp_todo_list_user_id_foreign` FOREIGN KEY (`user_id`) REFERENCES `wp_custom_users` (`id`) ON DELETE CASCADE) for query INSERT INTO `wp_todo_list` (`task_title`, `status`, `user_id`) VALUES ('Module 1 Task', 'pending', 1) made by do_action('wp_ajax_add_todo_task'), WP_Hook->do_action, WP_Hook->apply_filters, User_Authentication->handle_add_todo_task
+[15-Aug-2024 05:36:53 UTC] User ID: 1
+[15-Aug-2024 05:38:10 UTC] User ID: 1
+[15-Aug-2024 05:39:52 UTC] Current User ID: 1
+[15-Aug-2024 05:45:57 UTC] Current User ID: 1
+[15-Aug-2024 05:46:32 UTC] Current User ID: 1
+[15-Aug-2024 05:51:40 UTC] Current User ID: 1
+[15-Aug-2024 05:57:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method User_Authentication::get_logged_in_user_id() in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php:176
+Stack trace:
+#0 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\shortcodes.php(434): User_Authentication->render_todo_list(Array, '', 'todo_list')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\shortcodes.php(273): preg_replace_callback('/\\[(\\[?)(todo_l...', 'do_shortcode_ta...', '[todo_list]\n')
+#3 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\class-wp-hook.php(324): do_shortcode('[todo_list]\n')
+#4 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\plugin.php(205): WP_Hook->apply_filters('[todo_list]\n', Array)
+#5 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\blocks\post-content.php(50): apply_filters('the_content', '<!-- wp:shortco...')
+#6 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\class-wp-block.php(519): render_block_core_post_content(Array, '<!-- wp:shortco...', Object(WP_Block))
+#7 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\class-wp-block.php(499): WP_Block->render()
+#8 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\blocks.php(2061): WP_Block->render()
+#9 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\blocks.php(2113): render_block(Array)
+#10 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\block-template.php(260): do_blocks('<!-- wp:templat...')
+#11 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\template-canvas.php(12): get_the_block_template_html()
+#12 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\hp\\Loc...')
+#13 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-blog-header.php(19): require_once('C:\\Users\\hp\\Loc...')
+#14 C:\Users\hp\Local Sites\todolistplugin\app\public\index.php(17): require('C:\\Users\\hp\\Loc...')
+#15 {main}
+  thrown in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php on line 176
+[15-Aug-2024 05:57:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method User_Authentication::get_logged_in_user_id() in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php:176
+Stack trace:
+#0 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\shortcodes.php(434): User_Authentication->render_todo_list(Array, '', 'todo_list')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\shortcodes.php(273): preg_replace_callback('/\\[(\\[?)(todo_l...', 'do_shortcode_ta...', '[todo_list]\n')
+#3 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\class-wp-hook.php(324): do_shortcode('[todo_list]\n')
+#4 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\plugin.php(205): WP_Hook->apply_filters('[todo_list]\n', Array)
+#5 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\blocks\post-content.php(50): apply_filters('the_content', '<!-- wp:shortco...')
+#6 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\class-wp-block.php(519): render_block_core_post_content(Array, '<!-- wp:shortco...', Object(WP_Block))
+#7 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\class-wp-block.php(499): WP_Block->render()
+#8 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\blocks.php(2061): WP_Block->render()
+#9 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\blocks.php(2113): render_block(Array)
+#10 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\block-template.php(260): do_blocks('<!-- wp:templat...')
+#11 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\template-canvas.php(12): get_the_block_template_html()
+#12 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\hp\\Loc...')
+#13 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-blog-header.php(19): require_once('C:\\Users\\hp\\Loc...')
+#14 C:\Users\hp\Local Sites\todolistplugin\app\public\index.php(17): require('C:\\Users\\hp\\Loc...')
+#15 {main}
+  thrown in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php on line 176
+[15-Aug-2024 06:00:04 UTC] Current User ID: 1
+[15-Aug-2024 06:00:04 UTC] WordPress database error Cannot add or update a child row: a foreign key constraint fails (`local`.`wp_todo_list`, CONSTRAINT `wp_todo_list_ibfk_1` FOREIGN KEY (`user_id`) REFERENCES `wp_custom_users` (`id`) ON DELETE CASCADE) for query INSERT INTO `wp_todo_list` (`task_title`, `status`, `user_id`) VALUES ('Module 1 Task', 'pending', 1) made by do_action('wp_ajax_add_todo_task'), WP_Hook->do_action, WP_Hook->apply_filters, User_Authentication->handle_add_todo_task
+[15-Aug-2024 06:00:50 UTC] Current User ID: 1
+[15-Aug-2024 06:01:53 UTC] Current User ID: 1
+[15-Aug-2024 06:07:06 UTC] PHP Warning:  Undefined variable $tasks in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php on line 185
+[15-Aug-2024 06:07:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method User_Authentication::is_user_logged_in() in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php:216
+Stack trace:
+#0 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\class-wp-hook.php(324): User_Authentication->handle_add_todo_task('')
+#1 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-admin\admin-ajax.php(192): do_action('wp_ajax_add_tod...')
+#4 {main}
+  thrown in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php on line 216
+[15-Aug-2024 06:13:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method User_Authentication::get_logged_in_user_id() in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php:183
+Stack trace:
+#0 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\shortcodes.php(434): User_Authentication->render_todo_list(Array, '', 'todo_list')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\shortcodes.php(273): preg_replace_callback('/\\[(\\[?)(todo_l...', 'do_shortcode_ta...', '[todo_list]\n')
+#3 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\class-wp-hook.php(324): do_shortcode('[todo_list]\n')
+#4 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\plugin.php(205): WP_Hook->apply_filters('[todo_list]\n', Array)
+#5 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\blocks\post-content.php(50): apply_filters('the_content', '<!-- wp:shortco...')
+#6 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\class-wp-block.php(519): render_block_core_post_content(Array, '<!-- wp:shortco...', Object(WP_Block))
+#7 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\class-wp-block.php(499): WP_Block->render()
+#8 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\blocks.php(2061): WP_Block->render()
+#9 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\blocks.php(2113): render_block(Array)
+#10 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\block-template.php(260): do_blocks('<!-- wp:templat...')
+#11 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\template-canvas.php(12): get_the_block_template_html()
+#12 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\hp\\Loc...')
+#13 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-blog-header.php(19): require_once('C:\\Users\\hp\\Loc...')
+#14 C:\Users\hp\Local Sites\todolistplugin\app\public\index.php(17): require('C:\\Users\\hp\\Loc...')
+#15 {main}
+  thrown in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php on line 183
+[15-Aug-2024 06:22:13 UTC] PHP Fatal error:  Cannot redeclare User_Authentication::render_todo_list() in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php on line 216
+[15-Aug-2024 06:22:13 UTC] PHP Fatal error:  Cannot redeclare User_Authentication::render_todo_list() in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php on line 216
+[15-Aug-2024 06:22:14 UTC] PHP Fatal error:  Cannot redeclare User_Authentication::render_todo_list() in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php on line 216
+[15-Aug-2024 06:22:15 UTC] PHP Fatal error:  Cannot redeclare User_Authentication::render_todo_list() in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php on line 216
+[15-Aug-2024 06:22:16 UTC] PHP Fatal error:  Cannot redeclare User_Authentication::render_todo_list() in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php on line 216
+[15-Aug-2024 06:22:16 UTC] PHP Fatal error:  Cannot redeclare User_Authentication::render_todo_list() in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php on line 216
+[15-Aug-2024 06:23:27 UTC] PHP Fatal error:  Cannot redeclare User_Authentication::render_todo_list() in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php on line 216
+[15-Aug-2024 06:23:28 UTC] PHP Fatal error:  Cannot redeclare User_Authentication::render_todo_list() in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php on line 216
+[15-Aug-2024 06:23:29 UTC] PHP Fatal error:  Cannot redeclare User_Authentication::render_todo_list() in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php on line 216
+[15-Aug-2024 06:23:29 UTC] PHP Fatal error:  Cannot redeclare User_Authentication::render_todo_list() in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php on line 216
+[15-Aug-2024 06:24:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method User_Authentication::get_logged_in_user_id() in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php:183
+Stack trace:
+#0 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\shortcodes.php(434): User_Authentication->render_todo_list(Array, '', 'todo_list')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\shortcodes.php(273): preg_replace_callback('/\\[(\\[?)(todo_l...', 'do_shortcode_ta...', '[todo_list]\n')
+#3 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\class-wp-hook.php(324): do_shortcode('[todo_list]\n')
+#4 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\plugin.php(205): WP_Hook->apply_filters('[todo_list]\n', Array)
+#5 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\blocks\post-content.php(50): apply_filters('the_content', '<!-- wp:shortco...')
+#6 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\class-wp-block.php(519): render_block_core_post_content(Array, '<!-- wp:shortco...', Object(WP_Block))
+#7 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\class-wp-block.php(499): WP_Block->render()
+#8 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\blocks.php(2061): WP_Block->render()
+#9 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\blocks.php(2113): render_block(Array)
+#10 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\block-template.php(260): do_blocks('<!-- wp:templat...')
+#11 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\template-canvas.php(12): get_the_block_template_html()
+#12 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\hp\\Loc...')
+#13 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-blog-header.php(19): require_once('C:\\Users\\hp\\Loc...')
+#14 C:\Users\hp\Local Sites\todolistplugin\app\public\index.php(17): require('C:\\Users\\hp\\Loc...')
+#15 {main}
+  thrown in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php on line 183
+[15-Aug-2024 06:24:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method User_Authentication::get_logged_in_user_id() in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php:183
+Stack trace:
+#0 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\shortcodes.php(434): User_Authentication->render_todo_list(Array, '', 'todo_list')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\shortcodes.php(273): preg_replace_callback('/\\[(\\[?)(todo_l...', 'do_shortcode_ta...', '[todo_list]\n')
+#3 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\class-wp-hook.php(324): do_shortcode('[todo_list]\n')
+#4 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\plugin.php(205): WP_Hook->apply_filters('[todo_list]\n', Array)
+#5 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\blocks\post-content.php(50): apply_filters('the_content', '<!-- wp:shortco...')
+#6 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\class-wp-block.php(519): render_block_core_post_content(Array, '<!-- wp:shortco...', Object(WP_Block))
+#7 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\class-wp-block.php(499): WP_Block->render()
+#8 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\blocks.php(2061): WP_Block->render()
+#9 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\blocks.php(2113): render_block(Array)
+#10 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\block-template.php(260): do_blocks('<!-- wp:templat...')
+#11 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\template-canvas.php(12): get_the_block_template_html()
+#12 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\hp\\Loc...')
+#13 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-blog-header.php(19): require_once('C:\\Users\\hp\\Loc...')
+#14 C:\Users\hp\Local Sites\todolistplugin\app\public\index.php(17): require('C:\\Users\\hp\\Loc...')
+#15 {main}
+  thrown in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php on line 183
+[15-Aug-2024 06:57:45 UTC] Automatic updates starting...
+[15-Aug-2024 06:57:46 UTC] Automatic updates complete.
+[15-Aug-2024 07:09:49 UTC] PHP Parse error:  syntax error, unexpected identifier "current_id", expecting ")" in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php on line 183
+[15-Aug-2024 07:09:50 UTC] PHP Parse error:  syntax error, unexpected identifier "current_id", expecting ")" in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php on line 183
+[15-Aug-2024 07:12:06 UTC] PHP Notice:  Function wpdb::prepare was called <strong>incorrectly</strong>. The query argument of wpdb::prepare() must have a placeholder. Please see <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 3.9.0.) in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\functions.php on line 6085
+[15-Aug-2024 07:12:06 UTC] PHP Notice:  Function wpdb::prepare was called <strong>incorrectly</strong>. The query does not contain the correct number of placeholders (0) for the number of arguments passed (1). Please see <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 4.8.3.) in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\functions.php on line 6085
+[15-Aug-2024 07:12:06 UTC] WordPress database error Unknown column 'current_id' in 'where clause' for query SELECT * FROM wp_todo_list WHERE user_id = current_id made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('wp-includes/template-canvas.php'), get_the_block_template_html, do_blocks, render_block, WP_Block->render, WP_Block->render, render_block_core_post_content, apply_filters('the_content'), WP_Hook->apply_filters, do_shortcode, preg_replace_callback, do_shortcode_tag, User_Authentication->render_todo_list
+[15-Aug-2024 08:51:34 UTC] Current User ID: 1
+[15-Aug-2024 08:51:43 UTC] Current User ID: 1
+[15-Aug-2024 08:52:25 UTC] Current User ID: 1
+[15-Aug-2024 08:52:30 UTC] Current User ID: 1
+[15-Aug-2024 08:57:20 UTC] User is logged in
+[15-Aug-2024 09:49:22 UTC] PHP Warning:  Undefined variable $user in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php on line 158
+[15-Aug-2024 09:49:22 UTC] PHP Warning:  Attempt to read property "password" on null in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php on line 158
+[15-Aug-2024 09:49:22 UTC] PHP Deprecated:  strlen(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\pluggable.php on line 2576
+[15-Aug-2024 09:49:22 UTC] PHP Fatal error:  Uncaught TypeError: hash_equals(): Argument #1 ($known_string) must be of type string, null given in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\pluggable.php:2577
+Stack trace:
+#0 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\pluggable.php(2577): hash_equals(NULL, '66b9bb7fcc5219b...')
+#1 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php(158): wp_check_password('Nayab334@', NULL)
+#2 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\class-wp-hook.php(324): User_Authentication->login_user('')
+#3 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#4 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#5 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-admin\admin-ajax.php(192): do_action('wp_ajax_login_u...')
+#6 {main}
+  thrown in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\pluggable.php on line 2577
+[15-Aug-2024 09:49:24 UTC] PHP Warning:  Undefined variable $user in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php on line 158
+[15-Aug-2024 09:49:24 UTC] PHP Warning:  Attempt to read property "password" on null in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php on line 158
+[15-Aug-2024 09:49:24 UTC] PHP Deprecated:  strlen(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\pluggable.php on line 2576
+[15-Aug-2024 09:49:24 UTC] PHP Fatal error:  Uncaught TypeError: hash_equals(): Argument #1 ($known_string) must be of type string, null given in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\pluggable.php:2577
+Stack trace:
+#0 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\pluggable.php(2577): hash_equals(NULL, '66b9bb7fcc5219b...')
+#1 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php(158): wp_check_password('Nayab334@', NULL)
+#2 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\class-wp-hook.php(324): User_Authentication->login_user('')
+#3 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#4 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#5 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-admin\admin-ajax.php(192): do_action('wp_ajax_login_u...')
+#6 {main}
+  thrown in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\pluggable.php on line 2577
+[15-Aug-2024 09:49:24 UTC] PHP Warning:  Undefined variable $user in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php on line 158
+[15-Aug-2024 09:49:24 UTC] PHP Warning:  Attempt to read property "password" on null in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php on line 158
+[15-Aug-2024 09:49:24 UTC] PHP Deprecated:  strlen(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\pluggable.php on line 2576
+[15-Aug-2024 09:49:24 UTC] PHP Fatal error:  Uncaught TypeError: hash_equals(): Argument #1 ($known_string) must be of type string, null given in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\pluggable.php:2577
+Stack trace:
+#0 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\pluggable.php(2577): hash_equals(NULL, '66b9bb7fcc5219b...')
+#1 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php(158): wp_check_password('Nayab334@', NULL)
+#2 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\class-wp-hook.php(324): User_Authentication->login_user('')
+#3 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#4 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#5 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-admin\admin-ajax.php(192): do_action('wp_ajax_login_u...')
+#6 {main}
+  thrown in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\pluggable.php on line 2577
+[15-Aug-2024 09:49:27 UTC] PHP Warning:  Undefined variable $user in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php on line 158
+[15-Aug-2024 09:49:27 UTC] PHP Warning:  Attempt to read property "password" on null in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php on line 158
+[15-Aug-2024 09:49:27 UTC] PHP Deprecated:  strlen(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\pluggable.php on line 2576
+[15-Aug-2024 09:49:27 UTC] PHP Fatal error:  Uncaught TypeError: hash_equals(): Argument #1 ($known_string) must be of type string, null given in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\pluggable.php:2577
+Stack trace:
+#0 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\pluggable.php(2577): hash_equals(NULL, '66b9bb7fcc5219b...')
+#1 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php(158): wp_check_password('Nayab334@', NULL)
+#2 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\class-wp-hook.php(324): User_Authentication->login_user('')
+#3 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#4 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#5 C:\Users\hp\Local Sites\todolistplugin\app\public\wp-admin\admin-ajax.php(192): do_action('wp_ajax_login_u...')
+#6 {main}
+  thrown in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-includes\pluggable.php on line 2577
+[15-Aug-2024 09:51:20 UTC] PHP Warning:  Undefined property: stdClass::$ID in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php on line 163
+[15-Aug-2024 09:51:20 UTC] PHP Warning:  Undefined property: stdClass::$ID in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php on line 164
+[15-Aug-2024 10:24:43 UTC] WordPress database error Table 'local.wp_todo_list' doesn't exist for query SELECT * FROM wp_todo_list WHERE user_id = 1 made by do_action('wp_ajax_fetch_todo_tasks'), WP_Hook->do_action, WP_Hook->apply_filters, Todo_List->handle_fetch_todo_tasks
+[15-Aug-2024 10:24:51 UTC] WordPress database error Table 'local.wp_todo_list' doesn't exist for query SELECT * FROM wp_todo_list WHERE user_id = 1 made by do_action('wp_ajax_fetch_todo_tasks'), WP_Hook->do_action, WP_Hook->apply_filters, Todo_List->handle_fetch_todo_tasks
+[15-Aug-2024 10:25:11 UTC] WordPress database error Table 'local.wp_custom_users' doesn't exist for query SELECT COUNT(*) FROM wp_custom_users WHERE email = 'nayab334@gmail.com' made by do_action('wp_ajax_register_user'), WP_Hook->do_action, WP_Hook->apply_filters, Todo_List->register_user
+[15-Aug-2024 10:25:11 UTC] WordPress database error Table 'local.wp_custom_users' doesn't exist for query SHOW FULL COLUMNS FROM `wp_custom_users` made by do_action('wp_ajax_register_user'), WP_Hook->do_action, WP_Hook->apply_filters, Todo_List->register_user
+[15-Aug-2024 10:25:14 UTC] WordPress database error Table 'local.wp_todo_list' doesn't exist for query SELECT * FROM wp_todo_list WHERE user_id = 1 made by do_action('wp_ajax_fetch_todo_tasks'), WP_Hook->do_action, WP_Hook->apply_filters, Todo_List->handle_fetch_todo_tasks
+[15-Aug-2024 10:28:50 UTC] WordPress database error Unknown column 'email' in 'where clause' for query SELECT COUNT(*) FROM wp_users WHERE email = 'nayab334@gmail.com' made by do_action('wp_ajax_register_user'), WP_Hook->do_action, WP_Hook->apply_filters, Todo_List->register_user
+[15-Aug-2024 10:28:50 UTC] WordPress database error Unknown column 'email' in 'field list' for query INSERT INTO `wp_users` (`email`, `password`) VALUES ('nayab334@gmail.com', '$P$BkgEzR0uWXDwCXfGaUDA7zB5kKEJ310') made by do_action('wp_ajax_register_user'), WP_Hook->do_action, WP_Hook->apply_filters, Todo_List->register_user
+[15-Aug-2024 10:41:50 UTC] PHP Warning:  Undefined property: stdClass::$id in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php on line 183
+[15-Aug-2024 10:41:50 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php on line 184
+[15-Aug-2024 10:41:50 UTC] PHP Warning:  Undefined property: stdClass::$task in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php on line 185
+[15-Aug-2024 10:41:50 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php on line 187
+[15-Aug-2024 10:41:50 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php on line 188
+[15-Aug-2024 10:41:50 UTC] PHP Warning:  Undefined property: stdClass::$id in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php on line 183
+[15-Aug-2024 10:41:50 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php on line 184
+[15-Aug-2024 10:41:50 UTC] PHP Warning:  Undefined property: stdClass::$task in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php on line 185
+[15-Aug-2024 10:41:50 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php on line 187
+[15-Aug-2024 10:41:50 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php on line 188
+[15-Aug-2024 10:41:50 UTC] PHP Warning:  Undefined property: stdClass::$id in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php on line 183
+[15-Aug-2024 10:41:50 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php on line 184
+[15-Aug-2024 10:41:50 UTC] PHP Warning:  Undefined property: stdClass::$task in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php on line 185
+[15-Aug-2024 10:41:50 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php on line 187
+[15-Aug-2024 10:41:50 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php on line 188
+[15-Aug-2024 10:41:50 UTC] PHP Warning:  Undefined property: stdClass::$id in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php on line 183
+[15-Aug-2024 10:41:50 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php on line 184
+[15-Aug-2024 10:41:50 UTC] PHP Warning:  Undefined property: stdClass::$task in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php on line 185
+[15-Aug-2024 10:41:50 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php on line 187
+[15-Aug-2024 10:41:50 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php on line 188
+[15-Aug-2024 10:41:50 UTC] PHP Warning:  Undefined property: stdClass::$id in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php on line 183
+[15-Aug-2024 10:41:50 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php on line 184
+[15-Aug-2024 10:41:50 UTC] PHP Warning:  Undefined property: stdClass::$task in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php on line 185
+[15-Aug-2024 10:41:50 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php on line 187
+[15-Aug-2024 10:41:50 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php on line 188
+[15-Aug-2024 10:41:50 UTC] PHP Warning:  Undefined property: stdClass::$id in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php on line 183
+[15-Aug-2024 10:41:50 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php on line 184
+[15-Aug-2024 10:41:50 UTC] PHP Warning:  Undefined property: stdClass::$task in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php on line 185
+[15-Aug-2024 10:41:50 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php on line 187
+[15-Aug-2024 10:41:50 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php on line 188
+[15-Aug-2024 10:41:50 UTC] PHP Warning:  Undefined property: stdClass::$id in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php on line 183
+[15-Aug-2024 10:41:50 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php on line 184
+[15-Aug-2024 10:41:50 UTC] PHP Warning:  Undefined property: stdClass::$task in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php on line 185
+[15-Aug-2024 10:41:50 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php on line 187
+[15-Aug-2024 10:41:50 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php on line 188
+[15-Aug-2024 10:41:50 UTC] PHP Warning:  Undefined property: stdClass::$id in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php on line 183
+[15-Aug-2024 10:41:50 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php on line 184
+[15-Aug-2024 10:41:50 UTC] PHP Warning:  Undefined property: stdClass::$task in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php on line 185
+[15-Aug-2024 10:41:50 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php on line 187
+[15-Aug-2024 10:41:50 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php on line 188
+[15-Aug-2024 10:41:50 UTC] PHP Warning:  Undefined property: stdClass::$id in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php on line 183
+[15-Aug-2024 10:41:50 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php on line 184
+[15-Aug-2024 10:41:50 UTC] PHP Warning:  Undefined property: stdClass::$task in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php on line 185
+[15-Aug-2024 10:41:50 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php on line 187
+[15-Aug-2024 10:41:50 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php on line 188
+[15-Aug-2024 10:41:50 UTC] PHP Warning:  Undefined property: stdClass::$id in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php on line 183
+[15-Aug-2024 10:41:50 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php on line 184
+[15-Aug-2024 10:41:50 UTC] PHP Warning:  Undefined property: stdClass::$task in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php on line 185
+[15-Aug-2024 10:41:50 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php on line 187
+[15-Aug-2024 10:41:50 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php on line 188
+[15-Aug-2024 10:41:50 UTC] PHP Warning:  Undefined property: stdClass::$id in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php on line 183
+[15-Aug-2024 10:41:50 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php on line 184
+[15-Aug-2024 10:41:50 UTC] PHP Warning:  Undefined property: stdClass::$task in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php on line 185
+[15-Aug-2024 10:41:50 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php on line 187
+[15-Aug-2024 10:41:50 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php on line 188
+[15-Aug-2024 10:41:50 UTC] PHP Warning:  Undefined property: stdClass::$id in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php on line 183
+[15-Aug-2024 10:41:50 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php on line 184
+[15-Aug-2024 10:41:50 UTC] PHP Warning:  Undefined property: stdClass::$task in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php on line 185
+[15-Aug-2024 10:41:50 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php on line 187
+[15-Aug-2024 10:41:50 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php on line 188
+[15-Aug-2024 10:41:50 UTC] PHP Warning:  Undefined property: stdClass::$id in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php on line 183
+[15-Aug-2024 10:41:50 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php on line 184
+[15-Aug-2024 10:41:50 UTC] PHP Warning:  Undefined property: stdClass::$task in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php on line 185
+[15-Aug-2024 10:41:50 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php on line 187
+[15-Aug-2024 10:41:50 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php on line 188
+[15-Aug-2024 10:41:50 UTC] PHP Warning:  Undefined property: stdClass::$id in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php on line 183
+[15-Aug-2024 10:41:50 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php on line 184
+[15-Aug-2024 10:41:50 UTC] PHP Warning:  Undefined property: stdClass::$task in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php on line 185
+[15-Aug-2024 10:41:50 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php on line 187
+[15-Aug-2024 10:41:50 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php on line 188
+[15-Aug-2024 10:41:50 UTC] PHP Warning:  Undefined property: stdClass::$id in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php on line 183
+[15-Aug-2024 10:41:50 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php on line 184
+[15-Aug-2024 10:41:50 UTC] PHP Warning:  Undefined property: stdClass::$task in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php on line 185
+[15-Aug-2024 10:41:50 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php on line 187
+[15-Aug-2024 10:41:50 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php on line 188
+[15-Aug-2024 10:41:50 UTC] PHP Warning:  Undefined property: stdClass::$id in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php on line 183
+[15-Aug-2024 10:41:50 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php on line 184
+[15-Aug-2024 10:41:50 UTC] PHP Warning:  Undefined property: stdClass::$task in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php on line 185
+[15-Aug-2024 10:41:50 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php on line 187
+[15-Aug-2024 10:41:50 UTC] PHP Warning:  Undefined property: stdClass::$status in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php on line 188
+[15-Aug-2024 10:43:09 UTC] PHP Warning:  Undefined array key "status" in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php on line 233
+[15-Aug-2024 10:44:45 UTC] PHP Warning:  Undefined array key "task" in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php on line 205
+[15-Aug-2024 10:47:33 UTC] PHP Parse error:  Unclosed '{' on line 7 in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php on line 186
+[15-Aug-2024 10:47:33 UTC] PHP Parse error:  Unclosed '{' on line 7 in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php on line 186
+[15-Aug-2024 10:48:31 UTC] PHP Warning:  Undefined variable $tasks in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php on line 167
+[15-Aug-2024 10:52:01 UTC] PHP Warning:  Undefined variable $tasks in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php on line 170
+[15-Aug-2024 10:54:39 UTC] PHP Warning:  Undefined variable $tasks in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php on line 170
+[15-Aug-2024 10:54:41 UTC] PHP Warning:  Undefined variable $tasks in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php on line 170
+[15-Aug-2024 10:55:34 UTC] PHP Warning:  Undefined variable $tasks in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php on line 170
+[15-Aug-2024 11:02:21 UTC] PHP Warning:  Undefined variable $tasks in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php on line 170
+[15-Aug-2024 11:05:46 UTC] PHP Warning:  Undefined variable $tasks in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php on line 170
+[15-Aug-2024 11:07:21 UTC] PHP Warning:  Undefined variable $tasks in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php on line 170
+[15-Aug-2024 11:07:46 UTC] PHP Warning:  Undefined variable $tasks in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php on line 170
+[15-Aug-2024 11:09:08 UTC] PHP Warning:  Undefined variable $tasks in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php on line 170
+[15-Aug-2024 11:09:14 UTC] PHP Warning:  Undefined variable $tasks in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php on line 170
+[15-Aug-2024 11:09:39 UTC] PHP Warning:  Undefined variable $tasks in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php on line 170
+[15-Aug-2024 11:10:52 UTC] PHP Warning:  Undefined variable $tasks in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php on line 170
+[15-Aug-2024 11:17:27 UTC] PHP Warning:  Undefined variable $tasks in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php on line 170
+[15-Aug-2024 11:17:59 UTC] PHP Warning:  Undefined variable $tasks in C:\Users\hp\Local Sites\todolistplugin\app\public\wp-content\plugins\todo-list-plugin\public\class-todo-list-plugin-public.php on line 170
